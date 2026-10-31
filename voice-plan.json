@@ -1,0 +1,3819 @@
+{
+  "output": {
+    "fps": 30
+  },
+  "audioTracks": [
+    {
+      "id": "s06-1",
+      "assetId": "s06-1",
+      "startFrame": 0,
+      "durationFrames": 201,
+      "playbackRate": 1
+    },
+    {
+      "id": "s06-2",
+      "assetId": "s06-2",
+      "startFrame": 201,
+      "durationFrames": 299,
+      "playbackRate": 1
+    },
+    {
+      "id": "s06-3",
+      "assetId": "s06-3",
+      "startFrame": 500,
+      "durationFrames": 373,
+      "playbackRate": 1
+    },
+    {
+      "id": "s06-4",
+      "assetId": "s06-4",
+      "startFrame": 873,
+      "durationFrames": 356,
+      "playbackRate": 1
+    },
+    {
+      "id": "s07-1",
+      "assetId": "s07-1",
+      "startFrame": 1229,
+      "durationFrames": 406,
+      "playbackRate": 1
+    },
+    {
+      "id": "s07-2",
+      "assetId": "s07-2",
+      "startFrame": 1635,
+      "durationFrames": 323,
+      "playbackRate": 1
+    },
+    {
+      "id": "s07-3",
+      "assetId": "s07-3",
+      "startFrame": 1958,
+      "durationFrames": 269,
+      "playbackRate": 1
+    },
+    {
+      "id": "s07-4",
+      "assetId": "s07-4",
+      "startFrame": 2227,
+      "durationFrames": 488,
+      "playbackRate": 1
+    },
+    {
+      "id": "s08-1",
+      "assetId": "s08-1",
+      "startFrame": 2715,
+      "durationFrames": 186,
+      "playbackRate": 1
+    },
+    {
+      "id": "s08-2",
+      "assetId": "s08-2",
+      "startFrame": 2901,
+      "durationFrames": 491,
+      "playbackRate": 1
+    },
+    {
+      "id": "s08-3",
+      "assetId": "s08-3",
+      "startFrame": 3392,
+      "durationFrames": 279,
+      "playbackRate": 1
+    },
+    {
+      "id": "s08-4",
+      "assetId": "s08-4",
+      "startFrame": 3671,
+      "durationFrames": 455,
+      "playbackRate": 1
+    },
+    {
+      "id": "s09-1",
+      "assetId": "s09-1",
+      "startFrame": 4126,
+      "durationFrames": 132,
+      "playbackRate": 1
+    },
+    {
+      "id": "s09-2",
+      "assetId": "s09-2",
+      "startFrame": 4258,
+      "durationFrames": 332,
+      "playbackRate": 1
+    },
+    {
+      "id": "s09-3",
+      "assetId": "s09-3",
+      "startFrame": 4590,
+      "durationFrames": 392,
+      "playbackRate": 1
+    },
+    {
+      "id": "s09-4",
+      "assetId": "s09-4",
+      "startFrame": 4982,
+      "durationFrames": 270,
+      "playbackRate": 1
+    },
+    {
+      "id": "s09-5",
+      "assetId": "s09-5",
+      "startFrame": 5252,
+      "durationFrames": 231,
+      "playbackRate": 1
+    },
+    {
+      "id": "s01-1",
+      "assetId": "s01-1",
+      "startFrame": 5483,
+      "durationFrames": 195,
+      "playbackRate": 1
+    },
+    {
+      "id": "s01-2",
+      "assetId": "s01-2",
+      "startFrame": 5678,
+      "durationFrames": 165,
+      "playbackRate": 1
+    },
+    {
+      "id": "s01-3",
+      "assetId": "s01-3",
+      "startFrame": 5843,
+      "durationFrames": 157,
+      "playbackRate": 1
+    },
+    {
+      "id": "s01-4",
+      "assetId": "s01-4",
+      "startFrame": 6000,
+      "durationFrames": 118,
+      "playbackRate": 1
+    },
+    {
+      "id": "s01-5",
+      "assetId": "s01-5",
+      "startFrame": 6118,
+      "durationFrames": 144,
+      "playbackRate": 1
+    },
+    {
+      "id": "s10-1",
+      "assetId": "s10-1",
+      "startFrame": 6262,
+      "durationFrames": 342,
+      "playbackRate": 1
+    },
+    {
+      "id": "s10-2",
+      "assetId": "s10-2",
+      "startFrame": 6604,
+      "durationFrames": 409,
+      "playbackRate": 1
+    },
+    {
+      "id": "s10-3",
+      "assetId": "s10-3",
+      "startFrame": 7013,
+      "durationFrames": 387,
+      "playbackRate": 1
+    },
+    {
+      "id": "s10-4",
+      "assetId": "s10-4",
+      "startFrame": 7400,
+      "durationFrames": 122,
+      "playbackRate": 1
+    },
+    {
+      "id": "s10-5",
+      "assetId": "s10-5",
+      "startFrame": 7522,
+      "durationFrames": 301,
+      "playbackRate": 1
+    },
+    {
+      "id": "s02-1",
+      "assetId": "s02-1",
+      "startFrame": 7823,
+      "durationFrames": 131,
+      "playbackRate": 1
+    },
+    {
+      "id": "s02-2",
+      "assetId": "s02-2",
+      "startFrame": 7954,
+      "durationFrames": 149,
+      "playbackRate": 1
+    },
+    {
+      "id": "s02-3",
+      "assetId": "s02-3",
+      "startFrame": 8103,
+      "durationFrames": 189,
+      "playbackRate": 1
+    },
+    {
+      "id": "s02-4",
+      "assetId": "s02-4",
+      "startFrame": 8292,
+      "durationFrames": 145,
+      "playbackRate": 1
+    },
+    {
+      "id": "s02-5",
+      "assetId": "s02-5",
+      "startFrame": 8437,
+      "durationFrames": 272,
+      "playbackRate": 1
+    },
+    {
+      "id": "s02-6",
+      "assetId": "s02-6",
+      "startFrame": 8709,
+      "durationFrames": 128,
+      "playbackRate": 1
+    },
+    {
+      "id": "s11-1",
+      "assetId": "s11-1",
+      "startFrame": 8837,
+      "durationFrames": 274,
+      "playbackRate": 1
+    },
+    {
+      "id": "s11-2",
+      "assetId": "s11-2",
+      "startFrame": 9111,
+      "durationFrames": 283,
+      "playbackRate": 1
+    },
+    {
+      "id": "s11-3",
+      "assetId": "s11-3",
+      "startFrame": 9394,
+      "durationFrames": 224,
+      "playbackRate": 1
+    },
+    {
+      "id": "s11-4",
+      "assetId": "s11-4",
+      "startFrame": 9618,
+      "durationFrames": 261,
+      "playbackRate": 1
+    },
+    {
+      "id": "s11-5",
+      "assetId": "s11-5",
+      "startFrame": 9879,
+      "durationFrames": 279,
+      "playbackRate": 1
+    },
+    {
+      "id": "s11-6",
+      "assetId": "s11-6",
+      "startFrame": 10158,
+      "durationFrames": 273,
+      "playbackRate": 1
+    },
+    {
+      "id": "s03-1",
+      "assetId": "s03-1",
+      "startFrame": 10431,
+      "durationFrames": 149,
+      "playbackRate": 1
+    },
+    {
+      "id": "s03-2",
+      "assetId": "s03-2",
+      "startFrame": 10580,
+      "durationFrames": 130,
+      "playbackRate": 1
+    },
+    {
+      "id": "s03-3",
+      "assetId": "s03-3",
+      "startFrame": 10710,
+      "durationFrames": 181,
+      "playbackRate": 1
+    },
+    {
+      "id": "s03-4",
+      "assetId": "s03-4",
+      "startFrame": 10891,
+      "durationFrames": 147,
+      "playbackRate": 1
+    },
+    {
+      "id": "s03-5",
+      "assetId": "s03-5",
+      "startFrame": 11038,
+      "durationFrames": 227,
+      "playbackRate": 1
+    },
+    {
+      "id": "s03-6",
+      "assetId": "s03-6",
+      "startFrame": 11265,
+      "durationFrames": 142,
+      "playbackRate": 1
+    },
+    {
+      "id": "s12-1",
+      "assetId": "s12-1",
+      "startFrame": 11407,
+      "durationFrames": 293,
+      "playbackRate": 1
+    },
+    {
+      "id": "s12-2",
+      "assetId": "s12-2",
+      "startFrame": 11700,
+      "durationFrames": 235,
+      "playbackRate": 1
+    },
+    {
+      "id": "s12-3",
+      "assetId": "s12-3",
+      "startFrame": 11935,
+      "durationFrames": 521,
+      "playbackRate": 1
+    },
+    {
+      "id": "s12-4",
+      "assetId": "s12-4",
+      "startFrame": 12456,
+      "durationFrames": 391,
+      "playbackRate": 1
+    },
+    {
+      "id": "s12-5",
+      "assetId": "s12-5",
+      "startFrame": 12847,
+      "durationFrames": 150,
+      "playbackRate": 1
+    },
+    {
+      "id": "s12-6",
+      "assetId": "s12-6",
+      "startFrame": 12997,
+      "durationFrames": 246,
+      "playbackRate": 1
+    },
+    {
+      "id": "s05-1",
+      "assetId": "s05-1",
+      "startFrame": 13243,
+      "durationFrames": 145,
+      "playbackRate": 1
+    },
+    {
+      "id": "s05-2",
+      "assetId": "s05-2",
+      "startFrame": 13388,
+      "durationFrames": 221,
+      "playbackRate": 1
+    },
+    {
+      "id": "s05-3",
+      "assetId": "s05-3",
+      "startFrame": 13609,
+      "durationFrames": 108,
+      "playbackRate": 1
+    },
+    {
+      "id": "s05-4",
+      "assetId": "s05-4",
+      "startFrame": 13717,
+      "durationFrames": 279,
+      "playbackRate": 1
+    },
+    {
+      "id": "s05-5",
+      "assetId": "s05-5",
+      "startFrame": 13996,
+      "durationFrames": 315,
+      "playbackRate": 1
+    },
+    {
+      "id": "s13-1",
+      "assetId": "s13-1",
+      "startFrame": 14311,
+      "durationFrames": 406,
+      "playbackRate": 1
+    },
+    {
+      "id": "s13-2",
+      "assetId": "s13-2",
+      "startFrame": 14717,
+      "durationFrames": 189,
+      "playbackRate": 1
+    },
+    {
+      "id": "s13-3",
+      "assetId": "s13-3",
+      "startFrame": 14906,
+      "durationFrames": 320,
+      "playbackRate": 1
+    },
+    {
+      "id": "s13-4",
+      "assetId": "s13-4",
+      "startFrame": 15226,
+      "durationFrames": 364,
+      "playbackRate": 1
+    },
+    {
+      "id": "s13-5",
+      "assetId": "s13-5",
+      "startFrame": 15590,
+      "durationFrames": 343,
+      "playbackRate": 1
+    },
+    {
+      "id": "s14-1",
+      "assetId": "s14-1",
+      "startFrame": 15933,
+      "durationFrames": 402,
+      "playbackRate": 1
+    },
+    {
+      "id": "s14-2",
+      "assetId": "s14-2",
+      "startFrame": 16335,
+      "durationFrames": 482,
+      "playbackRate": 1
+    },
+    {
+      "id": "s14-3",
+      "assetId": "s14-3",
+      "startFrame": 16817,
+      "durationFrames": 383,
+      "playbackRate": 1
+    },
+    {
+      "id": "s14-4",
+      "assetId": "s14-4",
+      "startFrame": 17200,
+      "durationFrames": 470,
+      "playbackRate": 1
+    },
+    {
+      "id": "s14-5",
+      "assetId": "s14-5",
+      "startFrame": 17670,
+      "durationFrames": 224,
+      "playbackRate": 1
+    },
+    {
+      "id": "s14-6",
+      "assetId": "s14-6",
+      "startFrame": 17894,
+      "durationFrames": 258,
+      "playbackRate": 1
+    },
+    {
+      "id": "s15-1",
+      "assetId": "s15-1",
+      "startFrame": 18152,
+      "durationFrames": 283,
+      "playbackRate": 1
+    },
+    {
+      "id": "s15-2",
+      "assetId": "s15-2",
+      "startFrame": 18435,
+      "durationFrames": 436,
+      "playbackRate": 1
+    },
+    {
+      "id": "s15-3",
+      "assetId": "s15-3",
+      "startFrame": 18871,
+      "durationFrames": 312,
+      "playbackRate": 1
+    },
+    {
+      "id": "s15-4",
+      "assetId": "s15-4",
+      "startFrame": 19183,
+      "durationFrames": 191,
+      "playbackRate": 1
+    },
+    {
+      "id": "s15-5",
+      "assetId": "s15-5",
+      "startFrame": 19374,
+      "durationFrames": 484,
+      "playbackRate": 1
+    },
+    {
+      "id": "s15-6",
+      "assetId": "s15-6",
+      "startFrame": 19858,
+      "durationFrames": 265,
+      "playbackRate": 1
+    },
+    {
+      "id": "s04-1",
+      "assetId": "s04-1",
+      "startFrame": 20123,
+      "durationFrames": 144,
+      "playbackRate": 1
+    },
+    {
+      "id": "s04-2",
+      "assetId": "s04-2",
+      "startFrame": 20267,
+      "durationFrames": 190,
+      "playbackRate": 1
+    },
+    {
+      "id": "s04-3",
+      "assetId": "s04-3",
+      "startFrame": 20457,
+      "durationFrames": 201,
+      "playbackRate": 1
+    },
+    {
+      "id": "s04-4",
+      "assetId": "s04-4",
+      "startFrame": 20658,
+      "durationFrames": 196,
+      "playbackRate": 1
+    },
+    {
+      "id": "s04-5",
+      "assetId": "s04-5",
+      "startFrame": 20854,
+      "durationFrames": 224,
+      "playbackRate": 1
+    },
+    {
+      "id": "s04-6",
+      "assetId": "s04-6",
+      "startFrame": 21078,
+      "durationFrames": 180,
+      "playbackRate": 1
+    },
+    {
+      "id": "s16-1",
+      "assetId": "s16-1",
+      "startFrame": 21258,
+      "durationFrames": 203,
+      "playbackRate": 1
+    },
+    {
+      "id": "s16-2",
+      "assetId": "s16-2",
+      "startFrame": 21461,
+      "durationFrames": 434,
+      "playbackRate": 1
+    },
+    {
+      "id": "s16-3",
+      "assetId": "s16-3",
+      "startFrame": 21895,
+      "durationFrames": 432,
+      "playbackRate": 1
+    },
+    {
+      "id": "s16-4",
+      "assetId": "s16-4",
+      "startFrame": 22327,
+      "durationFrames": 58,
+      "playbackRate": 1
+    },
+    {
+      "id": "s16-5",
+      "assetId": "s16-5",
+      "startFrame": 22385,
+      "durationFrames": 397,
+      "playbackRate": 1
+    },
+    {
+      "id": "s16-6",
+      "assetId": "s16-6",
+      "startFrame": 22782,
+      "durationFrames": 269,
+      "playbackRate": 1
+    },
+    {
+      "id": "s17-1",
+      "assetId": "s17-1",
+      "startFrame": 23051,
+      "durationFrames": 149,
+      "playbackRate": 1
+    },
+    {
+      "id": "s17-2",
+      "assetId": "s17-2",
+      "startFrame": 23200,
+      "durationFrames": 374,
+      "playbackRate": 1
+    },
+    {
+      "id": "s17-3",
+      "assetId": "s17-3",
+      "startFrame": 23574,
+      "durationFrames": 233,
+      "playbackRate": 1
+    },
+    {
+      "id": "s17-4",
+      "assetId": "s17-4",
+      "startFrame": 23807,
+      "durationFrames": 443,
+      "playbackRate": 1
+    },
+    {
+      "id": "s17-5",
+      "assetId": "s17-5",
+      "startFrame": 24250,
+      "durationFrames": 341,
+      "playbackRate": 1
+    },
+    {
+      "id": "s18-1",
+      "assetId": "s18-1",
+      "startFrame": 24591,
+      "durationFrames": 178,
+      "playbackRate": 1
+    },
+    {
+      "id": "s18-2",
+      "assetId": "s18-2",
+      "startFrame": 24769,
+      "durationFrames": 348,
+      "playbackRate": 1
+    },
+    {
+      "id": "s18-3",
+      "assetId": "s18-3",
+      "startFrame": 25117,
+      "durationFrames": 138,
+      "playbackRate": 1
+    },
+    {
+      "id": "s18-4",
+      "assetId": "s18-4",
+      "startFrame": 25255,
+      "durationFrames": 410,
+      "playbackRate": 1
+    },
+    {
+      "id": "s18-5",
+      "assetId": "s18-5",
+      "startFrame": 25665,
+      "durationFrames": 117,
+      "playbackRate": 1
+    },
+    {
+      "id": "s18-6",
+      "assetId": "s18-6",
+      "startFrame": 25782,
+      "durationFrames": 186,
+      "playbackRate": 1
+    },
+    {
+      "id": "s18-7",
+      "assetId": "s18-7",
+      "startFrame": 25968,
+      "durationFrames": 397,
+      "playbackRate": 1
+    },
+    {
+      "id": "s18-8",
+      "assetId": "s18-8",
+      "startFrame": 26365,
+      "durationFrames": 196,
+      "playbackRate": 1
+    },
+    {
+      "id": "s19-1",
+      "assetId": "s19-1",
+      "startFrame": 26561,
+      "durationFrames": 186,
+      "playbackRate": 1
+    },
+    {
+      "id": "s19-2",
+      "assetId": "s19-2",
+      "startFrame": 26747,
+      "durationFrames": 410,
+      "playbackRate": 1
+    },
+    {
+      "id": "s19-3",
+      "assetId": "s19-3",
+      "startFrame": 27157,
+      "durationFrames": 466,
+      "playbackRate": 1
+    },
+    {
+      "id": "s19-4",
+      "assetId": "s19-4",
+      "startFrame": 27623,
+      "durationFrames": 254,
+      "playbackRate": 1
+    },
+    {
+      "id": "s19-5",
+      "assetId": "s19-5",
+      "startFrame": 27877,
+      "durationFrames": 231,
+      "playbackRate": 1
+    },
+    {
+      "id": "s19-6",
+      "assetId": "s19-6",
+      "startFrame": 28108,
+      "durationFrames": 554,
+      "playbackRate": 1
+    },
+    {
+      "id": "s20-1",
+      "assetId": "s20-1",
+      "startFrame": 28662,
+      "durationFrames": 63,
+      "playbackRate": 1
+    },
+    {
+      "id": "s20-2",
+      "assetId": "s20-2",
+      "startFrame": 28725,
+      "durationFrames": 477,
+      "playbackRate": 1
+    },
+    {
+      "id": "s20-3",
+      "assetId": "s20-3",
+      "startFrame": 29202,
+      "durationFrames": 449,
+      "playbackRate": 1
+    },
+    {
+      "id": "s20-4",
+      "assetId": "s20-4",
+      "startFrame": 29651,
+      "durationFrames": 502,
+      "playbackRate": 1
+    },
+    {
+      "id": "s20-5",
+      "assetId": "s20-5",
+      "startFrame": 30153,
+      "durationFrames": 374,
+      "playbackRate": 1
+    },
+    {
+      "id": "s21-1",
+      "assetId": "s21-1",
+      "startFrame": 30527,
+      "durationFrames": 325,
+      "playbackRate": 1
+    },
+    {
+      "id": "s21-2",
+      "assetId": "s21-2",
+      "startFrame": 30852,
+      "durationFrames": 439,
+      "playbackRate": 1
+    },
+    {
+      "id": "s21-3",
+      "assetId": "s21-3",
+      "startFrame": 31291,
+      "durationFrames": 59,
+      "playbackRate": 1
+    },
+    {
+      "id": "s21-4",
+      "assetId": "s21-4",
+      "startFrame": 31350,
+      "durationFrames": 286,
+      "playbackRate": 1
+    },
+    {
+      "id": "s21-5",
+      "assetId": "s21-5",
+      "startFrame": 31636,
+      "durationFrames": 466,
+      "playbackRate": 1
+    },
+    {
+      "id": "s21-6",
+      "assetId": "s21-6",
+      "startFrame": 32102,
+      "durationFrames": 240,
+      "playbackRate": 1
+    },
+    {
+      "id": "s21-7",
+      "assetId": "s21-7",
+      "startFrame": 32342,
+      "durationFrames": 471,
+      "playbackRate": 1
+    }
+  ],
+  "assets": [
+    {
+      "id": "s06-1",
+      "file": {
+        "path": "audio/s06-1.mp3",
+        "sha256": "31e93cd7a0b59d1047d48a8a4c891685e4f4417b967ee5e6c39b5a56a1a75cfd"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-69b1c7147416db22/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s06-2",
+      "file": {
+        "path": "audio/s06-2.mp3",
+        "sha256": "94f80b7973fda771549f48269902d62f5dd6791572219c3bf5b016637477bbfe"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-8f7cbad34668ab83/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s06-3",
+      "file": {
+        "path": "audio/s06-3.mp3",
+        "sha256": "d92d55447c9a4147b0dd61a8555ad6df5fd9a87b7dfea2c73786d3af6f5a07ad"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-5bb6d5b7f482e140/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s06-4",
+      "file": {
+        "path": "audio/s06-4.mp3",
+        "sha256": "43406765d5e0174c8de563eaf933ff2d1b7b51bba25de7c45c53b65d653c554f"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-c13bfef83e94c921/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s07-1",
+      "file": {
+        "path": "audio/s07-1.mp3",
+        "sha256": "438d0ded8a7dc5838ce440670ee91d9a6dbb33544aeb789fb8e0ecf87069f833"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-65da00188d09608f/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s07-2",
+      "file": {
+        "path": "audio/s07-2.mp3",
+        "sha256": "eb09e3f1042b964181ad98ba07f5fa35fb8f2a632cfa099f050eb4cf29396126"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-f6a202414b02ad00/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s07-3",
+      "file": {
+        "path": "audio/s07-3.mp3",
+        "sha256": "32440db0171c4b8b7a3b0b724b1777980c08394bddda89944f97a42928a39fae"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-0c733ba77084f9e7/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s07-4",
+      "file": {
+        "path": "audio/s07-4.mp3",
+        "sha256": "eb7ca0f967f0d02a068a363a94bd77f3fb2b0cf6d51059ef8600620fce70509a"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-3b34b848ae706d9b/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s08-1",
+      "file": {
+        "path": "audio/s08-1.mp3",
+        "sha256": "bd5e30c590c4ff3b2331c6ea052484685c787683ebbe948088aba90b27a1d64c"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-8ce138ad2af57f37/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s08-2",
+      "file": {
+        "path": "audio/s08-2.mp3",
+        "sha256": "e07d875ece6d5aeb8a95fd3a0c96d685b8194869a4a49acc73501025fce03078"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-49077c50160aa927/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s08-3",
+      "file": {
+        "path": "audio/s08-3.mp3",
+        "sha256": "1135331c6e7334ad384e96a62f8ef8542bbcd3ad5bd92c8145d3168caa9bbcee"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-c805e173fc8f2373/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s08-4",
+      "file": {
+        "path": "audio/s08-4.mp3",
+        "sha256": "af6f1449b0690bd8627c106ba91bc5a45127cf3255cbc70df6c548cd231b471f"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-97a6d022454a1478/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s09-1",
+      "file": {
+        "path": "audio/s09-1.mp3",
+        "sha256": "ca19eeaa58acf87c5fd30b3ecb27b8f6fc3115585785bafa1e98c98e441224c8"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-5700a1fc65a142bb/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s09-2",
+      "file": {
+        "path": "audio/s09-2.mp3",
+        "sha256": "8989938d8bed36675746fdd3cc11786c69de2bfeedf3f28c5f9864ad03fa9fe5"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d179e955f0b2ad8b/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s09-3",
+      "file": {
+        "path": "audio/s09-3.mp3",
+        "sha256": "6673ce21bf1e3ec3e5d16ecf5c33b3c10810143639580ed9e083f0bd1d676d19"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d6bf517a6e611537/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s09-4",
+      "file": {
+        "path": "audio/s09-4.mp3",
+        "sha256": "21fa2bce299899e035827fb4094e4993ae44b4ccfc0ff63834894b981666ce46"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-9259b6bfb0497f83/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s09-5",
+      "file": {
+        "path": "audio/s09-5.mp3",
+        "sha256": "71b2f1c109bf24cf6f8f285af81d9c2525c3175133e729b7b8c2d5129d195159"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-f13f521f797b3cd1/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s01-1",
+      "file": {
+        "path": "audio/s01-1.mp3",
+        "sha256": "71bf9b8556b45f2700e96664324c0a1b1b33d16e973dcbac44ad0078c328df14"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-a38e308a65f930ca/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s01-2",
+      "file": {
+        "path": "audio/s01-2.mp3",
+        "sha256": "6033261376ce3b0bfc001edd9abb7ecc19e39d173e591d9c83ec9964af428863"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-84f8afb3b56cf9f6/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s01-3",
+      "file": {
+        "path": "audio/s01-3.mp3",
+        "sha256": "34f774e505353cbe47d94b62af48f11d6b33dd753be87fe47d79792b171b40c4"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-ccecd1d43dfd70c9/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s01-4",
+      "file": {
+        "path": "audio/s01-4.mp3",
+        "sha256": "de93fcccf08c9c84bd4bca09b3f8a0b35ceccd8d45cb8778652f8cd2cec4b05c"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-9ae2b070c3076f0d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s01-5",
+      "file": {
+        "path": "audio/s01-5.mp3",
+        "sha256": "6bfea78178309caebda221d1a7fadcd1452988d329cb1ee33da36cb9cd2d797f"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-4783290c1751457d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s10-1",
+      "file": {
+        "path": "audio/s10-1.mp3",
+        "sha256": "b48ead35304d13b31ff22e597a76c3864991f8848681ed2a2e5913d893c8d904"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-64d8d8114bfc8a3f/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s10-2",
+      "file": {
+        "path": "audio/s10-2.mp3",
+        "sha256": "cc8eecfe174397ee388ef16a3e107a4d46b29cb252593e9910dd48f73b350e8a"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-c1909796e5c95cbf/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s10-3",
+      "file": {
+        "path": "audio/s10-3.mp3",
+        "sha256": "8a218c55dcecfba344ad5cd9c7639599b423d03486199937b151567146ac31f3"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-991df329126a29f1/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s10-4",
+      "file": {
+        "path": "audio/s10-4.mp3",
+        "sha256": "f0c18175b9b342b739fee80221592d8d4a4b52f66951ea00ff56e33e19d7e262"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-f343b826aafad364/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s10-5",
+      "file": {
+        "path": "audio/s10-5.mp3",
+        "sha256": "e080db9cf6cc1e418a6ec65f95799d371b5e80d4ebf65dfc05bb92865e8f3740"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-be7faaad4de0aecc/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s02-1",
+      "file": {
+        "path": "audio/s02-1.mp3",
+        "sha256": "0c78ee1e878cad490fd95c0caf5c8268187213de459cad073e0ad511b530eeab"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-ba25713133ecd4a5/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s02-2",
+      "file": {
+        "path": "audio/s02-2.mp3",
+        "sha256": "b31670c3c5fbb0b5dde83b5ad230001806251b4eebc9a97d99262c682f7692b3"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-75e1d746a5d7f12a/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s02-3",
+      "file": {
+        "path": "audio/s02-3.mp3",
+        "sha256": "e0caf288d8de45f0aa1832d378d5d05dcb3fda32eba81fbe580f50ea256cdd4c"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-646dbaaaeb44a91d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s02-4",
+      "file": {
+        "path": "audio/s02-4.mp3",
+        "sha256": "90f64173075a0b893e7b3a16e03c7feb0d0c6fe857df6198e92688034779601d"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-8e6d47018c0a0dcf/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s02-5",
+      "file": {
+        "path": "audio/s02-5.mp3",
+        "sha256": "1b02387e3fd7ad90483fd07bc3c31718558376417b994bd106f19bb47fbcdbc1"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-54e8bcaed918d1e5/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s02-6",
+      "file": {
+        "path": "audio/s02-6.mp3",
+        "sha256": "ae6ab695579a13a22a7186bda29708de892145915d584344af20858314542b4e"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-1fe030806225d116/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s11-1",
+      "file": {
+        "path": "audio/s11-1.mp3",
+        "sha256": "36071d68a670967dd58b642d3009d3308dfd31c704af50d4c250fd7604147003"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-b5f80be3e3e97b00/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s11-2",
+      "file": {
+        "path": "audio/s11-2.mp3",
+        "sha256": "40c17e51398ee0bd84159524917470ae62eac39f4f05dc7511384cb7c1582cb7"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-271a244b2973a47e/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s11-3",
+      "file": {
+        "path": "audio/s11-3.mp3",
+        "sha256": "e3e9d0825cae85e78d7f0fbedf80da526bda98623ebbc23becf3fd879054059e"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-565e0218bb1552b9/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s11-4",
+      "file": {
+        "path": "audio/s11-4.mp3",
+        "sha256": "fbe622451da74c1568e1d5a13a97d0ffa1cc7b4a2cb8cdea5b6f44ce1bc092b9"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-5120cd785b38c9a7/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s11-5",
+      "file": {
+        "path": "audio/s11-5.mp3",
+        "sha256": "6fdbe005cfb2f823049e3c5c9cff7111aecda5ae4af2be561b93f85e9380ecc6"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-e10432dfde720224/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s11-6",
+      "file": {
+        "path": "audio/s11-6.mp3",
+        "sha256": "f9364af026d26ff6f0f2003e20282bd91188caa1e1203c1524f598044dc29b99"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-5e6c944f4b5442e5/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s03-1",
+      "file": {
+        "path": "audio/s03-1.mp3",
+        "sha256": "0981d57a6c606091ed0e1cfeebf6551a8c89633002f77b32af94e31f12d80580"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-c2615b2166da2c44/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s03-2",
+      "file": {
+        "path": "audio/s03-2.mp3",
+        "sha256": "dd33c5705ca39969695164a4cd26cce8642d3eb2b4ae4ac06b4c370606ddee7c"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-3df80cba696343fe/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s03-3",
+      "file": {
+        "path": "audio/s03-3.mp3",
+        "sha256": "8e859021e85667aa02156fa048eee4ce317db11ae24a5a7b8eacb70eee971d12"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-b688ba50b60110ab/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s03-4",
+      "file": {
+        "path": "audio/s03-4.mp3",
+        "sha256": "993401bd69b4c7ad4b8fd73bbc4a4f58c5558be7ec08b7c6217b2b3c5b32813a"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-2dfafa49199dda12/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s03-5",
+      "file": {
+        "path": "audio/s03-5.mp3",
+        "sha256": "c5d326c16b94044e4ab53fd3edb9c77405fff053e7f8d69dd3c86302b6fed46b"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-f5efbf10fb2e8b11/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s03-6",
+      "file": {
+        "path": "audio/s03-6.mp3",
+        "sha256": "4d84edbfa29c43663d921321a2f3a4038945124cf3e10f70ceabc3db5c89806d"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d9750c55a9eaaac4/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s12-1",
+      "file": {
+        "path": "audio/s12-1.mp3",
+        "sha256": "f0a6d86f42e7e4991dfc3dcb339244525c1ae8b8564ae65f0202fba2db5faa52"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-3fdfe09df0af8e03/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s12-2",
+      "file": {
+        "path": "audio/s12-2.mp3",
+        "sha256": "a3217ef8240aa706dbba824721e68cd688e7608208927ebed1550d19b43a229c"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d98f8bf1b7148b6c/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s12-3",
+      "file": {
+        "path": "audio/s12-3.mp3",
+        "sha256": "3341482ef846891cdd0c7824868416e667335249814e40ca61c12c3851ccb99f"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-53a23cfcef96115a/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s12-4",
+      "file": {
+        "path": "audio/s12-4.mp3",
+        "sha256": "0aac75452d7d4d96001ef26080d8d7aa379fcb79b312e3e89b8c2713259c9108"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-a3ddb959cc128974/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s12-5",
+      "file": {
+        "path": "audio/s12-5.mp3",
+        "sha256": "b3a4aed271c0308730f2943b8c5fe118ac53e6309d039bd8dc2ca5447fc6af4b"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-22f5949492005a0e/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s12-6",
+      "file": {
+        "path": "audio/s12-6.mp3",
+        "sha256": "79baa4b6c2a5af17dcd0ca449ed0d406daf14f84a97871d0fbbb0647e8279c59"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-3e88410cade7bfb7/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s05-1",
+      "file": {
+        "path": "audio/s05-1.mp3",
+        "sha256": "7a12ca23ac8b54b4e5b3a67523b313f116a04ec564f84f82a8f7788a9d9dacef"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-1231cd47263b0910/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s05-2",
+      "file": {
+        "path": "audio/s05-2.mp3",
+        "sha256": "e1272a6bea9b786e7d4b57002925e4f5949b2b84fd955aeae8e87fbbf2474eaa"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d91eacc56f5cce6d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s05-3",
+      "file": {
+        "path": "audio/s05-3.mp3",
+        "sha256": "e53d272b147004f69e2c332782451db115a7e4ef8057118193362f75ecf60276"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-332bd403b7aa1a79/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s05-4",
+      "file": {
+        "path": "audio/s05-4.mp3",
+        "sha256": "d7f72ba773352388a3cf6dd4e2f4e68e3cddcf73622860ef7def9aead5fc9c70"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-6c3458ff3ce23d4d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s05-5",
+      "file": {
+        "path": "audio/s05-5.mp3",
+        "sha256": "df197089f9554107380c9a226c0c0d20d242a0d9ab64aefe0cd9dd1ea2ab2b73"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-94c715f9ade61810/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s13-1",
+      "file": {
+        "path": "audio/s13-1.mp3",
+        "sha256": "030c27556cb36b46ca5a4e5b5f663f9b5445386aaa91a8e6e52832e72b3e2d8a"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-051d477da9540ff4/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s13-2",
+      "file": {
+        "path": "audio/s13-2.mp3",
+        "sha256": "029630bfcc9cfc344f4af256650281a70323f7e610278329ab801f3bc21f5ce4"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-248c328593507385/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s13-3",
+      "file": {
+        "path": "audio/s13-3.mp3",
+        "sha256": "3206f8d537ba5fc3d15d928bfd6b11622ca5bca62713a89c4630a3b31a74a2b9"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d464d887cb0593e9/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s13-4",
+      "file": {
+        "path": "audio/s13-4.mp3",
+        "sha256": "6519bfb9314360a826f98f7e0dd982f3862e3d593dc5820308a08c3bc42da6ba"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-87bfd62f78dbc5bf/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s13-5",
+      "file": {
+        "path": "audio/s13-5.mp3",
+        "sha256": "17c1c6dfad00ee846b28ea2e74094b4cfb32de60de91a235bcfa835b2f3db7b4"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-61f464e02f9f094c/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s14-1",
+      "file": {
+        "path": "audio/s14-1.mp3",
+        "sha256": "54b33c55b597c2952aa2201163a77594449c8f94207fc60d9b3ac95ee1ed2c69"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-68df1f36dd704b73/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s14-2",
+      "file": {
+        "path": "audio/s14-2.mp3",
+        "sha256": "41e68df672f5dd0e2ea19b9964496081f48a1ef46027ad1907ccf20103c1e073"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-02dd6d8421b7cc53/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s14-3",
+      "file": {
+        "path": "audio/s14-3.mp3",
+        "sha256": "7b54c4adb5ce6a90c1a265194edd3ce5c462affd9ad9215257730f75f975812f"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-70d43bdbe3169b03/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s14-4",
+      "file": {
+        "path": "audio/s14-4.mp3",
+        "sha256": "3bdeea6837269b8732343895b939dc6156a0de97d8f00a06a6f27de190b2a8b4"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-928ed84621dd603e/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s14-5",
+      "file": {
+        "path": "audio/s14-5.mp3",
+        "sha256": "9d1a1b35855d7b5fa23e7e6f1001e61ea0d36084a020a80d522b25ca8481ace2"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-9c127aeb38e471cf/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s14-6",
+      "file": {
+        "path": "audio/s14-6.mp3",
+        "sha256": "0419ff8a35dc309e44c710a8d0b92d3e124707f097ebb0028ce152603c894c58"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-713828918195a42b/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s15-1",
+      "file": {
+        "path": "audio/s15-1.mp3",
+        "sha256": "a0c609a5b7bb17cb70bb065d936da39bb4c02801a152dabedf652df2664c0815"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-4abedfdfb962eba7/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s15-2",
+      "file": {
+        "path": "audio/s15-2.mp3",
+        "sha256": "7e03e2b1d569bb206166f6cbaf838d679770a6df524c1fd16d59c854924a6e17"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-395537a74dc1b4d0/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s15-3",
+      "file": {
+        "path": "audio/s15-3.mp3",
+        "sha256": "d221d82fba635c653ca6f4280fa4d705c3706cf2b438224a51291ddc246532d2"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-8697506ccbafe54f/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s15-4",
+      "file": {
+        "path": "audio/s15-4.mp3",
+        "sha256": "1930034a2850f5c797093ab7ca202c76f6aebd5e0f30979f77ad56295d0c3a52"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-35fe4cf0d1549c29/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s15-5",
+      "file": {
+        "path": "audio/s15-5.mp3",
+        "sha256": "cdf7b9a2e6d5999fd25204469b7f60d9a6ad4f73d095d42f4b9aac79c0f0b8bb"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-54eac75699491d80/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s15-6",
+      "file": {
+        "path": "audio/s15-6.mp3",
+        "sha256": "792e40d93df3c37cfafabf1f507a61cf468aefb02286a72d4df14dae9236d95d"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-32ed16ebd788291d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s04-1",
+      "file": {
+        "path": "audio/s04-1.mp3",
+        "sha256": "5802a11d2c92e33c473991ff98a8d740f24e07fdcab1dd876ebb2406a80160d1"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-8af028cd14195a40/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s04-2",
+      "file": {
+        "path": "audio/s04-2.mp3",
+        "sha256": "8c77b407a0f22ab0a6c39e9bbe8853b9530b6a71d45b03dda7517fb2f62166a7"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-4bd4e956b1669fea/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s04-3",
+      "file": {
+        "path": "audio/s04-3.mp3",
+        "sha256": "ecfa63b3f32b99c25b07c25d18c768e35721651f6fb4f1ca37b28aa1a1c28d99"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-e1a70bb1df64c3a5/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s04-4",
+      "file": {
+        "path": "audio/s04-4.mp3",
+        "sha256": "bc5d7c7530efdd3bb681808cd54a1c85d987bf25d9dfca9946d5a98c48c20059"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-04d869d28cc2a584/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s04-5",
+      "file": {
+        "path": "audio/s04-5.mp3",
+        "sha256": "c1979022a179f865bd6d41ab022538467263d5791f7725a1ffb5e620d865f0e3"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-7ed8caca24130f6e/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s04-6",
+      "file": {
+        "path": "audio/s04-6.mp3",
+        "sha256": "2f119f5c99f7c6bfbe18f3a847609ae5cc33032c9985c62e890d5a4c6b574c91"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-f9c0f5fe5e5fb342/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s16-1",
+      "file": {
+        "path": "audio/s16-1.mp3",
+        "sha256": "b7c2116016248537af3419af6ed2036a350f73445291c8120606979fe97175b0"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-9b5f32c40d16e459/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s16-2",
+      "file": {
+        "path": "audio/s16-2.mp3",
+        "sha256": "377ca84df55d06270c143521a75999e17ae4f9a8b294cadd0c242f0c2057bbe8"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-424c731b0cdd2a3a/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s16-3",
+      "file": {
+        "path": "audio/s16-3.mp3",
+        "sha256": "50c70cac31488499136f9541f02540defa3e4dd34af0db1f58d6024bd5256ad1"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-4927bf02b880aa71/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s16-4",
+      "file": {
+        "path": "audio/s16-4.mp3",
+        "sha256": "f44c9ce9e5dc8657a3d3d89f25a823437804789a8c0d5a7dbe05e56a245c7e35"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-94d809ee8eb0965d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s16-5",
+      "file": {
+        "path": "audio/s16-5.mp3",
+        "sha256": "b26063f2996bafa70545497867353a10cb8babe8acf3722993a1c1c645846626"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-4fab1a6d8e8267dd/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s16-6",
+      "file": {
+        "path": "audio/s16-6.mp3",
+        "sha256": "0f6aa906edd08573adb6fa7708ba4c0ac877f0f2c0520048fe35e79b3d977ba2"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-9e3c24150ab4e2b9/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s17-1",
+      "file": {
+        "path": "audio/s17-1.mp3",
+        "sha256": "7d10f958bd4b80ac287a247ddafa906045447fd2808340b4b9c1fae660c483c8"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-e3f7965057d1780a/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s17-2",
+      "file": {
+        "path": "audio/s17-2.mp3",
+        "sha256": "70a35a91a5b0f56174501eae0cb01c001338c87d2ce748c98202cf6963cf0e77"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-0870bc08ed8cca85/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s17-3",
+      "file": {
+        "path": "audio/s17-3.mp3",
+        "sha256": "2e8d62f8f11600bfe1eea244a6089d33ca145dc57f0be63aab147ac6cb2f3a2e"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-8f7ecee9b273e563/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s17-4",
+      "file": {
+        "path": "audio/s17-4.mp3",
+        "sha256": "d0fc9b4059af4b33ef5160e3a02f4f7b65546c29200a726d641ae2739d8f7409"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-b4c79603cf07fd8a/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s17-5",
+      "file": {
+        "path": "audio/s17-5.mp3",
+        "sha256": "a7895e67995b36761943e9c4585fb7aa15392932c9ae4687509cf0860b4bfaeb"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-f3d446ddbd323e91/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-1",
+      "file": {
+        "path": "audio/s18-1.mp3",
+        "sha256": "fb55c2481ad71ee6eb7b115b667e04b81baec7e527d8bc5398255f99605f6b04"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-005b1c80519b5cde/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-2",
+      "file": {
+        "path": "audio/s18-2.mp3",
+        "sha256": "ee9bccbbb75d5483084158cf5285afb7dfebf1295dbbbe539a7d1e44ddeff74c"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-626cfdf4e6b58a6d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-3",
+      "file": {
+        "path": "audio/s18-3.mp3",
+        "sha256": "9d6e10a9dd39c6e9af0f714ca14ebf017ed586c7eecc29304e0ac243c0aa15cf"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-02ce9bb2bc7e4799/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-4",
+      "file": {
+        "path": "audio/s18-4.mp3",
+        "sha256": "81590832181980dbfd3c22d14174acef250462b3b0419b406e7a0eb17bdb2df4"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-b10bff000677fed5/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-5",
+      "file": {
+        "path": "audio/s18-5.mp3",
+        "sha256": "b77c8f9dc843c47ede3c4c7acc664609076981297ec33e8f0338a92c640ac008"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d6f6cc68f71e79f3/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-6",
+      "file": {
+        "path": "audio/s18-6.mp3",
+        "sha256": "365043c412f27c3f14e41fe5043b747c4d11b14c7fc807b35de8192e36f13a41"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-089e23fe65f974ea/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-7",
+      "file": {
+        "path": "audio/s18-7.mp3",
+        "sha256": "6e8e2836ff73ee34099365296ed604bab5a39b8fdecf6a08b7b6900179df736c"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-dd1ef70a526add39/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-8",
+      "file": {
+        "path": "audio/s18-8.mp3",
+        "sha256": "1f454d0d53b617fa8fda7d244e95382573a9130492e71e641daa490c74a6ad9c"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-02dbd3f4fc3d9a26/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s19-1",
+      "file": {
+        "path": "audio/s19-1.mp3",
+        "sha256": "d5f57100fae9d12e27bb062c2d2bdf75505af3e1b0f8c1030d02cb89a01ab86d"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d72f941753f7ef06/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s19-2",
+      "file": {
+        "path": "audio/s19-2.mp3",
+        "sha256": "19755a9540f34c731e312899539977702799f6777b9e61322af6e79329cf3ecd"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-ba831ea940f55789/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s19-3",
+      "file": {
+        "path": "audio/s19-3.mp3",
+        "sha256": "3233df20f7728a9a3975780aba91f43817ecdbb1c9e8df65afc696285213eb7d"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-24be4fb86bcce6f0/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s19-4",
+      "file": {
+        "path": "audio/s19-4.mp3",
+        "sha256": "7c3402f6951ba44e70ad094df4a1131d67f0450999fc64e4dcc710b078a37699"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-22f43e39490e376c/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s19-5",
+      "file": {
+        "path": "audio/s19-5.mp3",
+        "sha256": "c7a925c3c9cb7eb5fb1f44c7e1e76f3028f777eb4da8d05871a776e6e3e05bba"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-7b0d978e31570cd1/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s19-6",
+      "file": {
+        "path": "audio/s19-6.mp3",
+        "sha256": "86f6a0037b4119fd7b1210b343f777f630c59e4620618a2981fc0de19a692148"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-9a373bd8de4ab10b/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s20-1",
+      "file": {
+        "path": "audio/s20-1.mp3",
+        "sha256": "284219e4d9bce4b307248403dee66ac4da5fcd01a844d08c7dd7fd38a1d86c25"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-eee8023e4c0f829c/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s20-2",
+      "file": {
+        "path": "audio/s20-2.mp3",
+        "sha256": "b850733897751c6d9b39a7c9582f76b1a883096ed580e2118cfe23f88ac5fb43"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-372e0a319ef62fb3/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s20-3",
+      "file": {
+        "path": "audio/s20-3.mp3",
+        "sha256": "1578db6d0e279de5a72d2def06f7ea0d75c8726ade9c30a3230aeab01da0517a"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-690fed554ccfcd86/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s20-4",
+      "file": {
+        "path": "audio/s20-4.mp3",
+        "sha256": "bddec2b4d1db030e8bf171d0e7f024fad162cb7b615ea34902bf2ad9257aec46"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-9c42557fe0493f05/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s20-5",
+      "file": {
+        "path": "audio/s20-5.mp3",
+        "sha256": "a4273d924a94cbff841f3e309ecad01531371347fe0929a9d38a5c0392c13159"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-c53d9ee4a27e681e/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s21-1",
+      "file": {
+        "path": "audio/s21-1.mp3",
+        "sha256": "b1dec6f8e9a15634e46b513e2c8a9f741fd5f51d5eb017c7f84848883fcead13"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-aa34249c2ccaf138/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s21-2",
+      "file": {
+        "path": "audio/s21-2.mp3",
+        "sha256": "b5fb30e0cee12bcd45d6c872e4660ae3116d3a4e88d5b7b0b2b17b2c4105d6c3"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-bee4ace4da6c74bd/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s21-3",
+      "file": {
+        "path": "audio/s21-3.mp3",
+        "sha256": "3729ff7e78ca1f9b2f3f9e2efdd7697502f4a6810e071a2aa429e0179795cc57"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-da04b8fe20a06065/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s21-4",
+      "file": {
+        "path": "audio/s21-4.mp3",
+        "sha256": "2ffc5d59683bef1f27ee904fc1907ef669835dbd3e06026669f43e2f15c4dd3f"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-f6e416d199aed867/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s21-5",
+      "file": {
+        "path": "audio/s21-5.mp3",
+        "sha256": "0cc17e6f7873a2f4d5d4ec1cd4687757bef0dcaacc9a47913fcea359792fb541"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-014c41a8a0f48cdb/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s21-6",
+      "file": {
+        "path": "audio/s21-6.mp3",
+        "sha256": "e0d3fef6c59a15823db5f712fe54717f0040129fe91905daec3e66bd1c85159c"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-0276b66ea4f13e1d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s21-7",
+      "file": {
+        "path": "audio/s21-7.mp3",
+        "sha256": "79eccdf039909d74048c462aaa891e16da2177fae5ec5e5209bfa8e69a05bdcc"
+      },
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-eee5107e54bf1c3b/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "background-music",
+      "file": {
+        "path": "audio/background-music.flac",
+        "sha256": "a21ee4acda11ee5643512291e3aee947e065b0c022a419362fda2e20d213f9de"
+      },
+      "provenance": {
+        "source": "FFmpeg from locked local audio",
+        "license": "来源与授权见公共混音回执及原始资产记录"
+      }
+    }
+  ],
+  "captions": {
+    "s06-1": [
+      {
+        "id": "s06-1-cap-0",
+        "text": "1927年 4 月 12 日，蒋介石在上海动手清党，史称四一二反革命政变。",
+        "startMs": 80,
+        "endMs": 6480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s06-2": [
+      {
+        "id": "s06-2-cap-0",
+        "text": "四天以后，蒋介石在南京另行成立国民政府，与武汉的国民政府对立，全国一时出现北京、南京、武汉三个政权对峙的局面。",
+        "startMs": 100,
+        "endMs": 9700,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s06-3": [
+      {
+        "id": "s06-3-cap-0",
+        "text": "同年 4 月 27 日至 5 月 9 日，中国共产党第五次全国代表大会在武汉召开，出席代表八十多人，代表党员五万七千九百六十七人，陈独秀继续担任总书记。",
+        "startMs": 100,
+        "endMs": 12280,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s06-4": [
+      {
+        "id": "s06-4-cap-0",
+        "text": "此时的武汉并不等于共产党：中共中央、几万党员、几十万人的工会队伍，和汪精卫领导的国民党中央、湖北省党部，摆在同一座城市里。",
+        "startMs": 440,
+        "endMs": 11600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s07-1": [
+      {
+        "id": "s07-1-cap-0",
+        "text": "蒋介石动手清党时，汪精卫还在国外，党内拥汪的一派人把他接回来，推举他以国民党中央政治委员会主席团的名义主持武汉方面，理由是他姿态最左、最能代表革命。",
+        "startMs": 120,
+        "endMs": 13240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      }
+    ],
+    "s07-2": [
+      {
+        "id": "s07-2-cap-0",
+        "text": "但清党也清掉了他自己的盟友：蒋介石赶走了胡汉民、李济深等一系人，等于替他扫清了党内对手，也让他失去了讨蒋的筹码。",
+        "startMs": 140,
+        "endMs": 10640,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s07-3": [
+      {
+        "id": "s07-3-cap-0",
+        "text": "武汉的财政、军械、外交都仰赖别人，中央银行也没有真正到手，这种处境一点点抽空了“左派”姿态。",
+        "startMs": 120,
+        "endMs": 8740,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s07-4": [
+      {
+        "id": "s07-4-cap-0",
+        "text": "读这段历史要分清两件事：汪精卫的反共有个人算计，也有他当时真实面对的军事与财政困局；只写成“早就想杀共产党”会失真，只写成“被蒋介石吓住”同样失真。",
+        "startMs": 280,
+        "endMs": 16060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      }
+    ],
+    "s08-1": [
+      {
+        "id": "s08-1-cap-0",
+        "text": "1927年 5 月 17 日，武汉国民政府所辖四个军的指挥官在武昌召开反共秘密会议。",
+        "startMs": 100,
+        "endMs": 6040,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s08-2": [
+      {
+        "id": "s08-2-cap-0",
+        "text": "四天后，驻宜昌的独立师师长夏斗寅叛变并攻打武汉；5 月 21 日，许克祥部在长沙叛变，封闭湖南革命团体、解除工农武装、屠杀革命者，这一天后来被称为马日事变。",
+        "startMs": 100,
+        "endMs": 16120,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6",
+          "run-0-c7",
+          "run-0-c8"
+        ]
+      }
+    ],
+    "s08-3": [
+      {
+        "id": "s08-3-cap-0",
+        "text": "枪口已经抬起来，中共中央当时的判断却是继续拉住汪精卫集团，用停止部分工农运动换取合作继续。",
+        "startMs": 100,
+        "endMs": 9040,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s08-4": [
+      {
+        "id": "s08-4-cap-0",
+        "text": "6 月初汪精卫解除了苏联顾问鲍罗廷的职务，朱培德在江西驱逐共产党；与此同时冯玉祥与蒋介石在徐州会面后联名通电，要求武汉清党。汪精卫失去第三方，退路只剩一条。",
+        "startMs": 260,
+        "endMs": 14960,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6",
+          "run-0-c7"
+        ]
+      }
+    ],
+    "s09-1": [
+      {
+        "id": "s09-1-cap-0",
+        "text": "6 月 1 日，共产国际发来《五月紧急指示》，由罗易带到武汉。",
+        "startMs": 80,
+        "endMs": 4260,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s09-2": [
+      {
+        "id": "s09-2-cap-0",
+        "text": "指示里有没收土地、增加工农代表进入国民党中央、改组国民党军队、组织特别法庭等条款；中共中央回电表示暂难执行。",
+        "startMs": 80,
+        "endMs": 10940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s09-3": [
+      {
+        "id": "s09-3-cap-0",
+        "text": "7 月 4 日在汉口三教街的政治局扩大会议上，陈独秀和鲍罗廷都主张暂不执行，还决定在两湖停部分工农运动，换回与国民党左派的联合战线。",
+        "startMs": 220,
+        "endMs": 12840,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s09-4": [
+      {
+        "id": "s09-4-cap-0",
+        "text": "7 月中旬中共中央改组，陈独秀离开中央领导岗位；13 日发表《对政局宣言》，宣布撤回参加国民政府的共产党员。",
+        "startMs": 80,
+        "endMs": 8860,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s09-5": [
+      {
+        "id": "s09-5-cap-0",
+        "text": "这些电文当时是机密。汪精卫通过某种渠道拿到了《五月指示》的内容，这就是他 15 日报告的全部素材。",
+        "startMs": 100,
+        "endMs": 7580,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s01-1": [
+      {
+        "id": "s01-1-cap-0",
+        "text": "七月九日，武汉国民党中央执行委员会扩大会议，限制共产党在国民党内的活动。",
+        "startMs": 120,
+        "endMs": 6200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s01-2": [
+      {
+        "id": "s01-2-cap-0",
+        "text": "七月十三日，中共中央发表宣言，宣布撤回参加国民政府的共产党员。",
+        "startMs": 80,
+        "endMs": 5200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s01-3": [
+      {
+        "id": "s01-3-cap-0",
+        "text": "七月十四日夜里，中央政治委员会主席团秘密开会，策划分共。",
+        "startMs": 80,
+        "endMs": 5100,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s01-4": [
+      {
+        "id": "s01-4-cap-0",
+        "text": "同一晚，宋庆龄发表声明，宣布退出武汉政府。",
+        "startMs": 100,
+        "endMs": 3860,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s01-5": [
+      {
+        "id": "s01-5-cap-0",
+        "text": "公开决裂与内部定策，几乎同时发生，只是走了两个方向。",
+        "startMs": 240,
+        "endMs": 4680,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s10-1": [
+      {
+        "id": "s10-1-cap-0",
+        "text": "7 月 15 日之前，武汉已经发生过一次意义重大的缴械。6 月 28 日，湖北全省总工会解散纠察队，并在次日《汉口民国日报》刊出布告。",
+        "startMs": 80,
+        "endMs": 11100,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      }
+    ],
+    "s10-2": [
+      {
+        "id": "s10-2-cap-0",
+        "text": "布告的措辞很克制：为避免反动派借口武装纠察造谣起见，业于二十八日将纠察队全体解散，所有前领枪弹并经交存政府，一面仍请政府派兵保护工会。",
+        "startMs": 100,
+        "endMs": 13480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s10-3": [
+      {
+        "id": "s10-3-cap-0",
+        "text": "同一时期另有两种说法：国民党方面记载，6 月 29 日武汉警备司令李品仙与第三十五军军长何键都表示反共，并解除汉口工会纠察队的武装。",
+        "startMs": 80,
+        "endMs": 12760,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s10-4": [
+      {
+        "id": "s10-4-cap-0",
+        "text": "共产党的文件则说，纠察队人员弃枪弃职，逃走一空。",
+        "startMs": 80,
+        "endMs": 3900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s10-5": [
+      {
+        "id": "s10-5-cap-0",
+        "text": "三种说法指向同一批枪和同一批人，却给出不同的责任归属。无论哪种说法，结论都一样：共产党在武汉失去了唯一的成建制武装。",
+        "startMs": 80,
+        "endMs": 9900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s02-1": [
+      {
+        "id": "s02-1-cap-0",
+        "text": "七月十五日，汪精卫召开武汉国民党中央常务委员会扩大会议。",
+        "startMs": 80,
+        "endMs": 4200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s02-2": [
+      {
+        "id": "s02-2-cap-0",
+        "text": "他作以分共为主旨的报告，公布共产国际五月紧急指示。",
+        "startMs": 100,
+        "endMs": 4820,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s02-3": [
+      {
+        "id": "s02-3-cap-0",
+        "text": "那封电报被归纳成五条，他逐条驳斥，说随便实行哪一条国民党就完了。",
+        "startMs": 80,
+        "endMs": 6140,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s02-4": [
+      {
+        "id": "s02-4-cap-0",
+        "text": "孙科、顾孟余、谭延闿也在会上主张制裁。",
+        "startMs": 200,
+        "endMs": 4600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      }
+    ],
+    "s02-5": [
+      {
+        "id": "s02-5-cap-0",
+        "text": "会议最后决定三项办法：一个月内开四中全会决定分共，会前制裁违反党义政策者，派代表赴苏俄商谈。",
+        "startMs": 80,
+        "endMs": 8840,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s02-6": [
+      {
+        "id": "s02-6-cap-0",
+        "text": "同一份决定里还有一句：保护共产党员的个人身体自由。",
+        "startMs": 100,
+        "endMs": 4120,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s11-1": [
+      {
+        "id": "s11-1-cap-0",
+        "text": "7 月 15 日汪精卫在报告里说：国民政府本是本党执行命令之最高机关，既然退出其国民政府，便无异脱离本党。",
+        "startMs": 80,
+        "endMs": 8980,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      }
+    ],
+    "s11-2": [
+      {
+        "id": "s11-2-cap-0",
+        "text": "国民革命军及各级政府机关都属于国民政府的系统，既然退出国民政府，则在军中、各级政府机关中，亦无须存在。",
+        "startMs": 80,
+        "endMs": 9200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s11-3": [
+      {
+        "id": "s11-3-cap-0",
+        "text": "国民党方面事后留下的文件同样直白：1927年 9 月 16 日成立的中国国民党中央特别委员会《宣言》说：",
+        "startMs": 100,
+        "endMs": 7320,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s11-4": [
+      {
+        "id": "s11-4-cap-0",
+        "text": "未几武汉诸忠实同志发现共派消灭本党之阴谋，遂于七月十五日在湘、鄂、赣三省厉行清党。",
+        "startMs": 80,
+        "endMs": 8580,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s11-5": [
+      {
+        "id": "s11-5-cap-0",
+        "text": "两边其实指向同一个动作，差别在命名和定性：国民党称分共，中共称七一五反革命政变。",
+        "startMs": 80,
+        "endMs": 9140,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s11-6": [
+      {
+        "id": "s11-6-cap-0",
+        "text": "今天写作更稳妥的做法，是先讲清这一天具体做了什么，再说他用什么名称称呼它，而不是先用一个名字把读者引到结论上去。",
+        "startMs": 80,
+        "endMs": 8940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s03-1": [
+      {
+        "id": "s03-1-cap-0",
+        "text": "七月十六日，武汉国民党中央发出两项训令，宣布和平分共。",
+        "startMs": 100,
+        "endMs": 4700,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s03-2": [
+      {
+        "id": "s03-2-cap-0",
+        "text": "一边说保护共产党员的人身自由，一边维持农工政策。",
+        "startMs": 140,
+        "endMs": 4100,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s03-3": [
+      {
+        "id": "s03-3-cap-0",
+        "text": "国民党中央十六日的声明也说，七月十五日的三项决议案极力保持革命联合阵线。",
+        "startMs": 100,
+        "endMs": 5900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s03-4": [
+      {
+        "id": "s03-4-cap-0",
+        "text": "汪精卫后来写道，分共必采用和平的方法，不用激烈的行径。",
+        "startMs": 80,
+        "endMs": 4780,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s03-5": [
+      {
+        "id": "s03-5-cap-0",
+        "text": "可是同一天下午，武汉已经在抓人：一天捕去二十余人，孔垄镇一次枪毙二十多名共产党员。",
+        "startMs": 440,
+        "endMs": 7260,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s03-6": [
+      {
+        "id": "s03-6-cap-0",
+        "text": "文件上写着和平，街上在做清党，两件事同时发生。",
+        "startMs": 140,
+        "endMs": 4540,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s12-1": [
+      {
+        "id": "s12-1-cap-0",
+        "text": "7 月 25 日，汪精卫在武汉国民党中央政治委员会上已经杀气腾腾：应当对共产党提出警告，再这样乱闹，莫怪我们翻脸了。",
+        "startMs": 100,
+        "endMs": 9680,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s12-2": [
+      {
+        "id": "s12-2-cap-0",
+        "text": "7 月 27 日，中央执行委员会发表《告中国共产党书》，称对于共产同志不能不加以制裁。",
+        "startMs": 100,
+        "endMs": 7680,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s12-3": [
+      {
+        "id": "s12-3-cap-0",
+        "text": "8 月 1 日，国民党中央政治委员会决定改组湖北省党部，并联合成立镇反委员会，专门负责逮捕和屠杀共产党人；8 月 2 日武汉政府发布布告，宣布拿获即行明正典刑，决不宽恕。",
+        "startMs": 100,
+        "endMs": 17060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6",
+          "run-0-c7",
+          "run-0-c8"
+        ]
+      }
+    ],
+    "s12-4": [
+      {
+        "id": "s12-4-cap-0",
+        "text": "8 月 8 日，国民党中央政治委员会通过厉行清党的办法与《清查共产党员办法》，开列党籍、通缉多人，并要求党政军人员一律登记声明有无跨党。",
+        "startMs": 80,
+        "endMs": 12900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s12-5": [
+      {
+        "id": "s12-5-cap-0",
+        "text": "把这些日期排在一起，会看到一条与汪精卫自述吻合的线索：",
+        "startMs": 160,
+        "endMs": 4760,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s12-6": [
+      {
+        "id": "s12-6-cap-0",
+        "text": "7 月 16 日和平分共的训令、8 月 2 日明正典刑的布告、8 月 8 日的通缉名单，都落在 8 月 1 日南昌起义之后。",
+        "startMs": 120,
+        "endMs": 8060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s05-1": [
+      {
+        "id": "s05-1-cap-0",
+        "text": "七一五之后，武汉三镇几乎每日都有共产党员被枪决。",
+        "startMs": 240,
+        "endMs": 4640,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s05-2": [
+      {
+        "id": "s05-2-cap-0",
+        "text": "济生三马路、裕华纱厂前、一纱厂一带、和记蛋厂、大智门，都洒过血。",
+        "startMs": 60,
+        "endMs": 7200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s05-3": [
+      {
+        "id": "s05-3-cap-0",
+        "text": "武昌阅马场与文昌门外，是另一批主要场所。",
+        "startMs": 100,
+        "endMs": 3440,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      }
+    ],
+    "s05-4": [
+      {
+        "id": "s05-4-cap-0",
+        "text": "人数有不同口径：湖北省委的不完全统计是数日内多至数千人，武汉市志则记胡陶统治期八百余人。",
+        "startMs": 80,
+        "endMs": 9020,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s05-5": [
+      {
+        "id": "s05-5-cap-0",
+        "text": "还有一句被反复引用的话：宁可错杀一千，不可使一人漏网——但把它算在汪精卫名下，在当时文献中是有争议的。",
+        "startMs": 140,
+        "endMs": 10220,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      }
+    ],
+    "s13-1": [
+      {
+        "id": "s13-1-cap-0",
+        "text": "武汉党史网保存了一份大革命失败后革命烈士就义处的名录，记下几处主要地点和遇难者的名字：汉口济生善堂广坪、余记里空坪，武昌文昌门外，以及汉口水塔。",
+        "startMs": 100,
+        "endMs": 13220,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s13-2": [
+      {
+        "id": "s13-2-cap-0",
+        "text": "李汉俊与詹大悲死在 1927年 12 月 17 日，是 11 月入汉的桂系势力所为。",
+        "startMs": 100,
+        "endMs": 6160,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s13-3": [
+      {
+        "id": "s13-3-cap-0",
+        "text": "据《武汉市志·政党志》，当天武汉市公安局长林逸圣亲率军警在日租界将二人捕走，当晚未经审讯便予杀害。",
+        "startMs": 280,
+        "endMs": 10560,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s13-4": [
+      {
+        "id": "s13-4-cap-0",
+        "text": "向警予 1928年 3 月因叛徒出卖被捕，同年 5 月 1 日被枪杀于汉口余记里空坪；湖北省委书记夏文法在 1929年 2 月省委再次被破坏时遇害。",
+        "startMs": 260,
+        "endMs": 11880,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s13-5": [
+      {
+        "id": "s13-5-cap-0",
+        "text": "这些名字分属不同的身份：工人运动的组织者、农会负责人、党的省级领导，也有国民党的左派。被清的不只是共产党，反对清党的国民党人同样会死。",
+        "startMs": 80,
+        "endMs": 11180,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s14-1": [
+      {
+        "id": "s14-1-cap-0",
+        "text": "据中共湖北省委不完全统计，1927年 8 月至次年上半年，全省党员、群众被杀害的多达 3.8 万余人，其中共产党员、共青团员和各级负责干部占多数。",
+        "startMs": 60,
+        "endMs": 13280,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s14-2": [
+      {
+        "id": "s14-2-cap-0",
+        "text": "党员人数由大革命高潮时期的 1.7 万余人减到 2000 余人。湖北省委书记 9 月上旬给中央的报告说：罢工后减至二千五百，八月中旬更减至二千，现在仅存一千二百六十九人了。",
+        "startMs": 120,
+        "endMs": 15900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s14-3": [
+      {
+        "id": "s14-3-cap-0",
+        "text": "工会方面，政变前武汉三镇有 11 个产业总工会、80 多个产业分会，约 33 万人的工会队伍被分化瓦解，政变后仅 1.4 万人还在党的领导之下。",
+        "startMs": 100,
+        "endMs": 12460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      }
+    ],
+    "s14-4": [
+      {
+        "id": "s14-4-cap-0",
+        "text": "农村方面，1927年 5 月统计全省有 22 个县农协、32 个县农协筹备会、380 个区农协、3852 个乡农协，会员总数 284 万余人，农民武装有枪两千多支。",
+        "startMs": 220,
+        "endMs": 15460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6",
+          "run-0-c7",
+          "run-0-c8"
+        ]
+      }
+    ],
+    "s14-5": [
+      {
+        "id": "s14-5-cap-0",
+        "text": "政变后，各级农协有的查禁、有的改组、有的被捣毁，农民自卫武装悉数被收缴。",
+        "startMs": 280,
+        "endMs": 7340,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s14-6": [
+      {
+        "id": "s14-6-cap-0",
+        "text": "这些数字统计对象与区间不同，不能相互换算或相加，但方向一致：一度被称为赤都的武汉，浸透了革命者的鲜血。",
+        "startMs": 80,
+        "endMs": 8380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s15-1": [
+      {
+        "id": "s15-1-cap-0",
+        "text": "7 月 17 日，国民党中央工人部通令各省党部，提出严密党与工会关系等四项办法，把党对工会的控制固定下来。",
+        "startMs": 120,
+        "endMs": 9300,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s15-2": [
+      {
+        "id": "s15-2-cap-0",
+        "text": "湖北反动政府随即取缔共产党，整顿和改组工会、农会、商民协会、妇女会、学生联合会，颁布限制性法令，严禁示威游行、群众大会与政治罢工。",
+        "startMs": 120,
+        "endMs": 14340,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s15-3": [
+      {
+        "id": "s15-3-cap-0",
+        "text": "8 月 8 日的《清查共产党员办法》之后，党组织被打散，大量意志不坚定者登报声明脱离共产党、共青团，甚至公开悔过。",
+        "startMs": 180,
+        "endMs": 10240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s15-4": [
+      {
+        "id": "s15-4-cap-0",
+        "text": "武汉党史网的记载说得很直接：中国共产党的组织、活动被迫由公开转入地下。",
+        "startMs": 180,
+        "endMs": 6080,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s15-5": [
+      {
+        "id": "s15-5-cap-0",
+        "text": "转入地下的中央机关就在汉口天津街 12 号。周恩来、邓颖超曾秘密居住于此，其后瞿秋白、杨之华、李维汉、邓小平也住在这里，筹备并主持召开中共中央紧急会议，决定举行秋收暴动。",
+        "startMs": 80,
+        "endMs": 15960,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s15-6": [
+      {
+        "id": "s15-6-cap-0",
+        "text": "1927年 9 月，中共中央机关陆续迁往上海。这所房子 1983年被公布为武汉市市级文物保护单位。",
+        "startMs": 180,
+        "endMs": 8640,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s04-1": [
+      {
+        "id": "s04-1-cap-0",
+        "text": "同一段时间，流传着三种说法，每一种都有文本依据。",
+        "startMs": 100,
+        "endMs": 4620,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s04-2": [
+      {
+        "id": "s04-2-cap-0",
+        "text": "党史的口径是：七月十五日分共，同时实行大逮捕、大屠杀。",
+        "startMs": 100,
+        "endMs": 6200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s04-3": [
+      {
+        "id": "s04-3-cap-0",
+        "text": "汪精卫自己的说法是：分共分三阶段，转向严厉驱共是在南昌起义之后。",
+        "startMs": 80,
+        "endMs": 6560,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s04-4": [
+      {
+        "id": "s04-4-cap-0",
+        "text": "武汉地方志的细账则把七一五定位成分共命令，屠杀高峰在十一月桂系入汉之后。",
+        "startMs": 120,
+        "endMs": 6400,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s04-5": [
+      {
+        "id": "s04-5-cap-0",
+        "text": "三种说法并不必然互斥：七月之后确实开始抓人，成批处决在四个月后。",
+        "startMs": 320,
+        "endMs": 7220,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s04-6": [
+      {
+        "id": "s04-6-cap-0",
+        "text": "真正有争议的是，七月十五日本身做了什么，责任又该算到谁头上。",
+        "startMs": 140,
+        "endMs": 5680,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s16-1": [
+      {
+        "id": "s16-1-cap-0",
+        "text": "七一五之后，中共和武汉方面的关系断绝，被清出去的党组织必须自己拿起武器。",
+        "startMs": 80,
+        "endMs": 6480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s16-2": [
+      {
+        "id": "s16-2-cap-0",
+        "text": "7 月下旬，中共中央政治局临时常委会正式决定在南昌发动武装起义；7 月 27 日，成立由周恩来、李立三、恽代英、彭湃组成的中共前敌委员会。",
+        "startMs": 80,
+        "endMs": 14360,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s16-3": [
+      {
+        "id": "s16-3-cap-0",
+        "text": "8 月 1 日，在以周恩来为书记的前敌委员会领导下，贺龙、叶挺、朱德、刘伯承等率领党所掌握和影响的军队两万余人，在南昌举行起义并占领南昌城。",
+        "startMs": 80,
+        "endMs": 14140,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s16-4": [
+      {
+        "id": "s16-4-cap-0",
+        "text": "这里有一个容易写错的细节：",
+        "startMs": 80,
+        "endMs": 1780,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      }
+    ],
+    "s16-5": [
+      {
+        "id": "s16-5-cap-0",
+        "text": "武汉政府当时正在东征讨蒋，叶挺的第二十四师自 7 月 11 日起陆续开抵九江，贺龙部 7 月 10 日离开武昌驻黄石，这些调动当时的名义是东征，不是被逐出武汉。",
+        "startMs": 460,
+        "endMs": 12940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s16-6": [
+      {
+        "id": "s16-6-cap-0",
+        "text": "部队走向南昌，是 7 月 19 日那份要求军队政工人员与共产党脱离关系的通令，加上起义决策共同作用的结果。",
+        "startMs": 80,
+        "endMs": 8820,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s17-1": [
+      {
+        "id": "s17-1-cap-0",
+        "text": "8 月 7 日，中共中央在汉口召开紧急会议，即八七会议。",
+        "startMs": 300,
+        "endMs": 4720,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s17-2": [
+      {
+        "id": "s17-2-cap-0",
+        "text": "会议纠正了以陈独秀为首的中央所犯的右倾机会主义错误，确立实行土地革命和武装起义的方针，选举中央临时政治局，瞿秋白当选常委并任主席。",
+        "startMs": 120,
+        "endMs": 12240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s17-3": [
+      {
+        "id": "s17-3-cap-0",
+        "text": "常见的因果链是：毛泽东 1927年 3 月写出《湖南农民运动考察报告》，但他的意见没有进入中央决策。",
+        "startMs": 80,
+        "endMs": 7640,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s17-4": [
+      {
+        "id": "s17-4-cap-0",
+        "text": "《中国共产党简史》记，五大上毛泽东完全被陈独秀排斥于大会的领导之外，并被剥夺了在大会上的表决权；接着发生四一二、马日事变和七一五，革命损失惨重，八七会议才把方向定下来。",
+        "startMs": 100,
+        "endMs": 14600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s17-5": [
+      {
+        "id": "s17-5-cap-0",
+        "text": "所以把《湖南农民运动考察报告》写成七一五的后果是错的：它写在 1927年 3 月，比七一五早了四个多月，它是前因和背景，而不是后果。",
+        "startMs": 260,
+        "endMs": 11160,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s18-1": [
+      {
+        "id": "s18-1-cap-0",
+        "text": "分共的同时，汪精卫并没有放弃讨蒋，仍把蒋介石视为党国唯一的敌人。",
+        "startMs": 120,
+        "endMs": 5660,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s18-2": [
+      {
+        "id": "s18-2-cap-0",
+        "text": "但蒋介石主持的北伐也不顺，徐州失守，桂系首领李宗仁软硬兼施，终于逼蒋介石与胡汉民等人下野，8 月 13 日蒋介石正式下野。",
+        "startMs": 100,
+        "endMs": 11500,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      }
+    ],
+    "s18-3": [
+      {
+        "id": "s18-3-cap-0",
+        "text": "武汉方面的机关从 8 月底、9 月初陆续迁往南京，两边合流。",
+        "startMs": 80,
+        "endMs": 4460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s18-4": [
+      {
+        "id": "s18-4-cap-0",
+        "text": "9 月 16 日，中国国民党中央特别委员会在南京成立并发表《宣言》，代行中央执行、监察委员会职权，改组国民政府，并定于三个月内筹备第三次全国代表大会。",
+        "startMs": 120,
+        "endMs": 13380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      }
+    ],
+    "s18-5": [
+      {
+        "id": "s18-5-cap-0",
+        "text": "《宣言》说得很清楚：既继续清党，也继续北伐。",
+        "startMs": 80,
+        "endMs": 3600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s18-6": [
+      {
+        "id": "s18-6-cap-0",
+        "text": "这一天距七一五不到两个月，武汉政府就从革命政府变成了新南京国民政府的一部分。",
+        "startMs": 80,
+        "endMs": 6040,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s18-7": [
+      {
+        "id": "s18-7-cap-0",
+        "text": "需要标明的是，这个阶段的日期在公开资料里并不统一：迁都南京有 8 月 19 日、8 月 25 日和八月底九月初三说，中央特别委员会的成立日有 9 月 15 日与 16 日两说。",
+        "startMs": 120,
+        "endMs": 13080,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s18-8": [
+      {
+        "id": "s18-8-cap-0",
+        "text": "本稿只采用有文件可查的 9 月 16 日《宣言》落款，其余保留差异，不做取舍。",
+        "startMs": 160,
+        "endMs": 6260,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s19-1": [
+      {
+        "id": "s19-1-cap-0",
+        "text": "同一个动作，有好几套叫法，而且每套叫法背后都是一次立场选择。",
+        "startMs": 280,
+        "endMs": 6040,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s19-2": [
+      {
+        "id": "s19-2-cap-0",
+        "text": "国民党方面当时的官方措辞是分共：国民党中央 7 月 16 日的声明、7 月 27 日的《告中国共产党书》，以及汪精卫 11 月 5 日的文章《武汉分共之经过》，用的都是这个词。",
+        "startMs": 100,
+        "endMs": 13560,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s19-3": [
+      {
+        "id": "s19-3-cap-0",
+        "text": "当事人的说法并不统一：瞿秋白回忆的是武汉的国共分裂，国民党左派邓演达批评的是武汉中央背叛革命，当时一位准备脱党的中共党员施存统则把决裂归因于争夺革命的领导权。",
+        "startMs": 100,
+        "endMs": 15420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s19-4": [
+      {
+        "id": "s19-4-cap-0",
+        "text": "七一五反革命政变这个标签并不出现在 1927年的当事人文本里，也不出现在两版《中国共产党简史》的正文里。",
+        "startMs": 120,
+        "endMs": 8320,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s19-5": [
+      {
+        "id": "s19-5-cap-0",
+        "text": "它大量出现在面向宣传教育的党史专栏、武汉地方志与年鉴系统，以及纪念宣传材料中。",
+        "startMs": 60,
+        "endMs": 7400,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1-p1",
+          "run-0-c1-p2"
+        ]
+      }
+    ],
+    "s19-6": [
+      {
+        "id": "s19-6-cap-0",
+        "text": "最实用的做法是把名称拆成两层：事实那一层有会议记录、训令、通告与地方党史记载可以对照；定性那一层是政治立场与叙述场合的差别。讲清楚这一点，读者才不至于被任何一个名字牵着走。",
+        "startMs": 80,
+        "endMs": 18360,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s20-1": [
+      {
+        "id": "s20-1-cap-0",
+        "text": "需要专门排除两个同名异事。",
+        "startMs": 80,
+        "endMs": 1960,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      }
+    ],
+    "s20-2": [
+      {
+        "id": "s20-2-cap-0",
+        "text": "其一是 1948年 7 月 15 日昆明的七一五学生运动：宪警在警备总司令何绍周指挥下进攻云南大学会泽院和南菁中学，抓捕学生八百多名，这与 1927 年武汉毫无因果关系。",
+        "startMs": 140,
+        "endMs": 15740,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s20-3": [
+      {
+        "id": "s20-3-cap-0",
+        "text": "其二是番号：1937年八路军第一二〇师三五八旅下有七一五团，是部队代号，不是事件名称。除此以外，本次检索未找到以七一五命名的其他重大事件。",
+        "startMs": 240,
+        "endMs": 14760,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      }
+    ],
+    "s20-4": [
+      {
+        "id": "s20-4-cap-0",
+        "text": "今天武汉与这段历史相关的地方是以别的名义存在的：八七会议会址纪念馆、武汉中共中央机关旧址纪念馆、武昌农民运动讲习所旧址、毛泽东旧居、中共五大会址，以及汉口民国日报社旧址。",
+        "startMs": 80,
+        "endMs": 16520,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      }
+    ],
+    "s20-5": [
+      {
+        "id": "s20-5-cap-0",
+        "text": "真正专为这些死难者而立的地方是汉阳龟山的红色战士公墓，即今天的向警予烈士陵园；没有一座场馆以七一五命名，但这段历史就保存在这些地址里。",
+        "startMs": 100,
+        "endMs": 12200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s21-1": [
+      {
+        "id": "s21-1-cap-0",
+        "text": "7 月 26 日至 28 日，汪精卫、孙科、谭延闿、张发奎等离开汉口赴九江、庐山密商加紧清共，会议据传决定：",
+        "startMs": 80,
+        "endMs": 10680,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s21-2": [
+      {
+        "id": "s21-2-cap-0",
+        "text": "严令贺龙、叶挺限期将军队撤回九江，封闭九江市党部、九江书店与《国民新闻报》馆并逮捕其负责人，第二方面军实行清共，通缉恽代英、廖乾吾、高语罕等。",
+        "startMs": 120,
+        "endMs": 14500,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      }
+    ],
+    "s21-3": [
+      {
+        "id": "s21-3-cap-0",
+        "text": "同一批人里还有另一种动作。",
+        "startMs": 100,
+        "endMs": 1820,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      }
+    ],
+    "s21-4": [
+      {
+        "id": "s21-4-cap-0",
+        "text": "据《中华民国史大事记》等史料的记载，汪精卫曾打算通知贺龙、叶挺参加庐山会议并令所部集中德安。",
+        "startMs": 320,
+        "endMs": 9380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s21-5": [
+      {
+        "id": "s21-5-cap-0",
+        "text": "而贺龙、叶挺、叶剑英、高语罕、廖乾吾等在鄱阳湖的小船上开紧急会议，决定不去庐山、部队亦不去德安，按第二十四师、第二十军的顺序迅速向南昌开进。",
+        "startMs": 160,
+        "endMs": 15340,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      }
+    ],
+    "s21-6": [
+      {
+        "id": "s21-6-cap-0",
+        "text": "这两组安排在同一个星期里交错：一边在庐山密商如何把部队收回去，一边在小船上决定把部队拉向南昌。",
+        "startMs": 80,
+        "endMs": 7880,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      }
+    ],
+    "s21-7": [
+      {
+        "id": "s21-7-cap-0",
+        "text": "8 月 1 日凌晨，贺龙、叶挺、朱德在南昌率部起义。武汉方面随即下令申讨，严令第二方面军总指挥张发奎率部进剿，于是原本用来东征讨蒋的部队，在半个月内变成了内战的两方。",
+        "startMs": 100,
+        "endMs": 15560,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      }
+    ]
+  },
+  "background": [
+    {
+      "kind": "music",
+      "assetId": "background-music",
+      "frames": 32813
+    }
+  ]
+}

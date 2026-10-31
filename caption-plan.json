@@ -1,0 +1,2522 @@
+{
+  "schemaVersion": "1.0",
+  "defaultVisible": true,
+  "placement": "canvas",
+  "fps": 30,
+  "cues": [
+    {
+      "id": "s06-1-caption-0",
+      "nodeId": "n01",
+      "shotId": "s06",
+      "text": "1927年 4 月 12 日，蒋介石在上海动手清党，史称四一二反革命政变。",
+      "startFrame": 3,
+      "endFrame": 201,
+      "trackId": "s06-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 3,
+        "endFrame": 195
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s06-2-caption-0",
+      "nodeId": "n01",
+      "shotId": "s06",
+      "text": "四天以后，蒋介石在南京另行成立国民政府，与武汉的国民政府对立，全国一时出现北京、南京、武汉三个政权对峙的局面。",
+      "startFrame": 204,
+      "endFrame": 500,
+      "trackId": "s06-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 204,
+        "endFrame": 492
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s06-3-caption-0",
+      "nodeId": "n01",
+      "shotId": "s06",
+      "text": "同年 4 月 27 日至 5 月 9 日，中国共产党第五次全国代表大会在武汉召开，出席代表八十多人，代表党员五万七千九百六十七人，陈独秀继续担任总书记。",
+      "startFrame": 503,
+      "endFrame": 873,
+      "trackId": "s06-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 503,
+        "endFrame": 869
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s06-4-caption-0",
+      "nodeId": "n01",
+      "shotId": "s06",
+      "text": "此时的武汉并不等于共产党：中共中央、几万党员、几十万人的工会队伍，和汪精卫领导的国民党中央、湖北省党部，摆在同一座城市里。",
+      "startFrame": 887,
+      "endFrame": 1229,
+      "trackId": "s06-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 887,
+        "endFrame": 1221
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s07-1-caption-0",
+      "nodeId": "n02",
+      "shotId": "s07",
+      "text": "蒋介石动手清党时，汪精卫还在国外，党内拥汪的一派人把他接回来，推举他以国民党中央政治委员会主席团的名义主持武汉方面，理由是他姿态最左、最能代表革命。",
+      "startFrame": 1233,
+      "endFrame": 1635,
+      "trackId": "s07-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 1233,
+        "endFrame": 1627
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s07-2-caption-0",
+      "nodeId": "n02",
+      "shotId": "s07",
+      "text": "但清党也清掉了他自己的盟友：蒋介石赶走了胡汉民、李济深等一系人，等于替他扫清了党内对手，也让他失去了讨蒋的筹码。",
+      "startFrame": 1640,
+      "endFrame": 1958,
+      "trackId": "s07-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 1640,
+        "endFrame": 1955
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s07-3-caption-0",
+      "nodeId": "n02",
+      "shotId": "s07",
+      "text": "武汉的财政、军械、外交都仰赖别人，中央银行也没有真正到手，这种处境一点点抽空了“左派”姿态。",
+      "startFrame": 1962,
+      "endFrame": 2227,
+      "trackId": "s07-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 1962,
+        "endFrame": 2221
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s07-4-caption-0",
+      "nodeId": "n02",
+      "shotId": "s07",
+      "text": "读这段历史要分清两件事：汪精卫的反共有个人算计，也有他当时真实面对的军事与财政困局；只写成“早就想杀共产党”会失真，只写成“被蒋介石吓住”同样失真。",
+      "startFrame": 2236,
+      "endFrame": 2715,
+      "trackId": "s07-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 2236,
+        "endFrame": 2709
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s08-1-caption-0",
+      "nodeId": "n03",
+      "shotId": "s08",
+      "text": "1927年 5 月 17 日，武汉国民政府所辖四个军的指挥官在武昌召开反共秘密会议。",
+      "startFrame": 2718,
+      "endFrame": 2901,
+      "trackId": "s08-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 2718,
+        "endFrame": 2897
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s08-2-caption-0",
+      "nodeId": "n03",
+      "shotId": "s08",
+      "text": "四天后，驻宜昌的独立师师长夏斗寅叛变并攻打武汉；5 月 21 日，许克祥部在长沙叛变，封闭湖南革命团体、解除工农武装、屠杀革命者，这一天后来被称为马日事变。",
+      "startFrame": 2904,
+      "endFrame": 3392,
+      "trackId": "s08-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6",
+        "run-0-c7",
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 2904,
+        "endFrame": 3385
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s08-3-caption-0",
+      "nodeId": "n03",
+      "shotId": "s08",
+      "text": "枪口已经抬起来，中共中央当时的判断却是继续拉住汪精卫集团，用停止部分工农运动换取合作继续。",
+      "startFrame": 3395,
+      "endFrame": 3671,
+      "trackId": "s08-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 3395,
+        "endFrame": 3664
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s08-4-caption-0",
+      "nodeId": "n03",
+      "shotId": "s08",
+      "text": "6 月初汪精卫解除了苏联顾问鲍罗廷的职务，朱培德在江西驱逐共产党；与此同时冯玉祥与蒋介石在徐州会面后联名通电，要求武汉清党。汪精卫失去第三方，退路只剩一条。",
+      "startFrame": 3679,
+      "endFrame": 4126,
+      "trackId": "s08-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6",
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 3679,
+        "endFrame": 4120
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s09-1-caption-0",
+      "nodeId": "n04",
+      "shotId": "s09",
+      "text": "6 月 1 日，共产国际发来《五月紧急指示》，由罗易带到武汉。",
+      "startFrame": 4129,
+      "endFrame": 4258,
+      "trackId": "s09-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 4129,
+        "endFrame": 4254
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s09-2-caption-0",
+      "nodeId": "n04",
+      "shotId": "s09",
+      "text": "指示里有没收土地、增加工农代表进入国民党中央、改组国民党军队、组织特别法庭等条款；中共中央回电表示暂难执行。",
+      "startFrame": 4261,
+      "endFrame": 4590,
+      "trackId": "s09-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 4261,
+        "endFrame": 4587
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s09-3-caption-0",
+      "nodeId": "n04",
+      "shotId": "s09",
+      "text": "7 月 4 日在汉口三教街的政治局扩大会议上，陈独秀和鲍罗廷都主张暂不执行，还决定在两湖停部分工农运动，换回与国民党左派的联合战线。",
+      "startFrame": 4597,
+      "endFrame": 4982,
+      "trackId": "s09-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 4597,
+        "endFrame": 4976
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s09-4-caption-0",
+      "nodeId": "n04",
+      "shotId": "s09",
+      "text": "7 月中旬中共中央改组，陈独秀离开中央领导岗位；13 日发表《对政局宣言》，宣布撤回参加国民政府的共产党员。",
+      "startFrame": 4985,
+      "endFrame": 5252,
+      "trackId": "s09-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 4985,
+        "endFrame": 5248
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s09-5-caption-0",
+      "nodeId": "n04",
+      "shotId": "s09",
+      "text": "这些电文当时是机密。汪精卫通过某种渠道拿到了《五月指示》的内容，这就是他 15 日报告的全部素材。",
+      "startFrame": 5255,
+      "endFrame": 5483,
+      "trackId": "s09-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 5255,
+        "endFrame": 5480
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s01-1-caption-0",
+      "nodeId": "n05",
+      "shotId": "s01",
+      "text": "七月九日，武汉国民党中央执行委员会扩大会议，限制共产党在国民党内的活动。",
+      "startFrame": 5487,
+      "endFrame": 5678,
+      "trackId": "s01-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 5487,
+        "endFrame": 5669
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s01-2-caption-0",
+      "nodeId": "n05",
+      "shotId": "s01",
+      "text": "七月十三日，中共中央发表宣言，宣布撤回参加国民政府的共产党员。",
+      "startFrame": 5681,
+      "endFrame": 5843,
+      "trackId": "s01-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 5681,
+        "endFrame": 5834
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s01-3-caption-0",
+      "nodeId": "n05",
+      "shotId": "s01",
+      "text": "七月十四日夜里，中央政治委员会主席团秘密开会，策划分共。",
+      "startFrame": 5846,
+      "endFrame": 6000,
+      "trackId": "s01-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 5846,
+        "endFrame": 5996
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s01-4-caption-0",
+      "nodeId": "n05",
+      "shotId": "s01",
+      "text": "同一晚，宋庆龄发表声明，宣布退出武汉政府。",
+      "startFrame": 6003,
+      "endFrame": 6118,
+      "trackId": "s01-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 6003,
+        "endFrame": 6116
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s01-5-caption-0",
+      "nodeId": "n05",
+      "shotId": "s01",
+      "text": "公开决裂与内部定策，几乎同时发生，只是走了两个方向。",
+      "startFrame": 6126,
+      "endFrame": 6262,
+      "trackId": "s01-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 6126,
+        "endFrame": 6259
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s10-1-caption-0",
+      "nodeId": "n20",
+      "shotId": "s10",
+      "text": "7 月 15 日之前，武汉已经发生过一次意义重大的缴械。6 月 28 日，湖北全省总工会解散纠察队，并在次日《汉口民国日报》刊出布告。",
+      "startFrame": 6265,
+      "endFrame": 6604,
+      "trackId": "s10-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 6265,
+        "endFrame": 6595
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s10-2-caption-0",
+      "nodeId": "n20",
+      "shotId": "s10",
+      "text": "布告的措辞很克制：为避免反动派借口武装纠察造谣起见，业于二十八日将纠察队全体解散，所有前领枪弹并经交存政府，一面仍请政府派兵保护工会。",
+      "startFrame": 6607,
+      "endFrame": 7013,
+      "trackId": "s10-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 6607,
+        "endFrame": 7009
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s10-3-caption-0",
+      "nodeId": "n20",
+      "shotId": "s10",
+      "text": "同一时期另有两种说法：国民党方面记载，6 月 29 日武汉警备司令李品仙与第三十五军军长何键都表示反共，并解除汉口工会纠察队的武装。",
+      "startFrame": 7016,
+      "endFrame": 7400,
+      "trackId": "s10-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 7016,
+        "endFrame": 7396
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s10-4-caption-0",
+      "nodeId": "n20",
+      "shotId": "s10",
+      "text": "共产党的文件则说，纠察队人员弃枪弃职，逃走一空。",
+      "startFrame": 7403,
+      "endFrame": 7522,
+      "trackId": "s10-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 7403,
+        "endFrame": 7517
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s10-5-caption-0",
+      "nodeId": "n20",
+      "shotId": "s10",
+      "text": "三种说法指向同一批枪和同一批人，却给出不同的责任归属。无论哪种说法，结论都一样：共产党在武汉失去了唯一的成建制武装。",
+      "startFrame": 7525,
+      "endFrame": 7823,
+      "trackId": "s10-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 7525,
+        "endFrame": 7819
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s02-1-caption-0",
+      "nodeId": "n06",
+      "shotId": "s02",
+      "text": "七月十五日，汪精卫召开武汉国民党中央常务委员会扩大会议。",
+      "startFrame": 7826,
+      "endFrame": 7954,
+      "trackId": "s02-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 7826,
+        "endFrame": 7949
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s02-2-caption-0",
+      "nodeId": "n06",
+      "shotId": "s02",
+      "text": "他作以分共为主旨的报告，公布共产国际五月紧急指示。",
+      "startFrame": 7957,
+      "endFrame": 8103,
+      "trackId": "s02-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 7957,
+        "endFrame": 8099
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s02-3-caption-0",
+      "nodeId": "n06",
+      "shotId": "s02",
+      "text": "那封电报被归纳成五条，他逐条驳斥，说随便实行哪一条国民党就完了。",
+      "startFrame": 8106,
+      "endFrame": 8292,
+      "trackId": "s02-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 8106,
+        "endFrame": 8288
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s02-4-caption-0",
+      "nodeId": "n06",
+      "shotId": "s02",
+      "text": "孙科、顾孟余、谭延闿也在会上主张制裁。",
+      "startFrame": 8298,
+      "endFrame": 8437,
+      "trackId": "s02-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 8298,
+        "endFrame": 8430
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s02-5-caption-0",
+      "nodeId": "n06",
+      "shotId": "s02",
+      "text": "会议最后决定三项办法：一个月内开四中全会决定分共，会前制裁违反党义政策者，派代表赴苏俄商谈。",
+      "startFrame": 8440,
+      "endFrame": 8709,
+      "trackId": "s02-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 8440,
+        "endFrame": 8703
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s02-6-caption-0",
+      "nodeId": "n06",
+      "shotId": "s02",
+      "text": "同一份决定里还有一句：保护共产党员的个人身体自由。",
+      "startFrame": 8712,
+      "endFrame": 8837,
+      "trackId": "s02-6",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 8712,
+        "endFrame": 8833
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s11-1-caption-0",
+      "nodeId": "n07",
+      "shotId": "s11",
+      "text": "7 月 15 日汪精卫在报告里说：国民政府本是本党执行命令之最高机关，既然退出其国民政府，便无异脱离本党。",
+      "startFrame": 8840,
+      "endFrame": 9111,
+      "trackId": "s11-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 8840,
+        "endFrame": 9107
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s11-2-caption-0",
+      "nodeId": "n07",
+      "shotId": "s11",
+      "text": "国民革命军及各级政府机关都属于国民政府的系统，既然退出国民政府，则在军中、各级政府机关中，亦无须存在。",
+      "startFrame": 9114,
+      "endFrame": 9394,
+      "trackId": "s11-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 9114,
+        "endFrame": 9387
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s11-3-caption-0",
+      "nodeId": "n07",
+      "shotId": "s11",
+      "text": "国民党方面事后留下的文件同样直白：1927年 9 月 16 日成立的中国国民党中央特别委员会《宣言》说：",
+      "startFrame": 9397,
+      "endFrame": 9618,
+      "trackId": "s11-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 9397,
+        "endFrame": 9614
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s11-4-caption-0",
+      "nodeId": "n07",
+      "shotId": "s11",
+      "text": "未几武汉诸忠实同志发现共派消灭本党之阴谋，遂于七月十五日在湘、鄂、赣三省厉行清党。",
+      "startFrame": 9621,
+      "endFrame": 9879,
+      "trackId": "s11-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 9621,
+        "endFrame": 9876
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s11-5-caption-0",
+      "nodeId": "n07",
+      "shotId": "s11",
+      "text": "两边其实指向同一个动作，差别在命名和定性：国民党称分共，中共称七一五反革命政变。",
+      "startFrame": 9882,
+      "endFrame": 10158,
+      "trackId": "s11-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 9882,
+        "endFrame": 10154
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s11-6-caption-0",
+      "nodeId": "n07",
+      "shotId": "s11",
+      "text": "今天写作更稳妥的做法，是先讲清这一天具体做了什么，再说他用什么名称称呼它，而不是先用一个名字把读者引到结论上去。",
+      "startFrame": 10161,
+      "endFrame": 10431,
+      "trackId": "s11-6",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 10161,
+        "endFrame": 10427
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s03-1-caption-0",
+      "nodeId": "n08",
+      "shotId": "s03",
+      "text": "七月十六日，武汉国民党中央发出两项训令，宣布和平分共。",
+      "startFrame": 10434,
+      "endFrame": 10580,
+      "trackId": "s03-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 10434,
+        "endFrame": 10572
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s03-2-caption-0",
+      "nodeId": "n08",
+      "shotId": "s03",
+      "text": "一边说保护共产党员的人身自由，一边维持农工政策。",
+      "startFrame": 10585,
+      "endFrame": 10710,
+      "trackId": "s03-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 10585,
+        "endFrame": 10703
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s03-3-caption-0",
+      "nodeId": "n08",
+      "shotId": "s03",
+      "text": "国民党中央十六日的声明也说，七月十五日的三项决议案极力保持革命联合阵线。",
+      "startFrame": 10713,
+      "endFrame": 10891,
+      "trackId": "s03-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 10713,
+        "endFrame": 10887
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s03-4-caption-0",
+      "nodeId": "n08",
+      "shotId": "s03",
+      "text": "汪精卫后来写道，分共必采用和平的方法，不用激烈的行径。",
+      "startFrame": 10894,
+      "endFrame": 11038,
+      "trackId": "s03-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 10894,
+        "endFrame": 11035
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s03-5-caption-0",
+      "nodeId": "n08",
+      "shotId": "s03",
+      "text": "可是同一天下午，武汉已经在抓人：一天捕去二十余人，孔垄镇一次枪毙二十多名共产党员。",
+      "startFrame": 11052,
+      "endFrame": 11265,
+      "trackId": "s03-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 11052,
+        "endFrame": 11256
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s03-6-caption-0",
+      "nodeId": "n08",
+      "shotId": "s03",
+      "text": "文件上写着和平，街上在做清党，两件事同时发生。",
+      "startFrame": 11270,
+      "endFrame": 11407,
+      "trackId": "s03-6",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 11270,
+        "endFrame": 11402
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s12-1-caption-0",
+      "nodeId": "n09",
+      "shotId": "s12",
+      "text": "7 月 25 日，汪精卫在武汉国民党中央政治委员会上已经杀气腾腾：应当对共产党提出警告，再这样乱闹，莫怪我们翻脸了。",
+      "startFrame": 11410,
+      "endFrame": 11700,
+      "trackId": "s12-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 11410,
+        "endFrame": 11698
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s12-2-caption-0",
+      "nodeId": "n09",
+      "shotId": "s12",
+      "text": "7 月 27 日，中央执行委员会发表《告中国共产党书》，称对于共产同志不能不加以制裁。",
+      "startFrame": 11703,
+      "endFrame": 11935,
+      "trackId": "s12-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 11703,
+        "endFrame": 11931
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s12-3-caption-0",
+      "nodeId": "n09",
+      "shotId": "s12",
+      "text": "8 月 1 日，国民党中央政治委员会决定改组湖北省党部，并联合成立镇反委员会，专门负责逮捕和屠杀共产党人；8 月 2 日武汉政府发布布告，宣布拿获即行明正典刑，决不宽恕。",
+      "startFrame": 11938,
+      "endFrame": 12456,
+      "trackId": "s12-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6",
+        "run-0-c7",
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 11938,
+        "endFrame": 12447
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s12-4-caption-0",
+      "nodeId": "n09",
+      "shotId": "s12",
+      "text": "8 月 8 日，国民党中央政治委员会通过厉行清党的办法与《清查共产党员办法》，开列党籍、通缉多人，并要求党政军人员一律登记声明有无跨党。",
+      "startFrame": 12459,
+      "endFrame": 12847,
+      "trackId": "s12-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 12459,
+        "endFrame": 12843
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s12-5-caption-0",
+      "nodeId": "n09",
+      "shotId": "s12",
+      "text": "把这些日期排在一起，会看到一条与汪精卫自述吻合的线索：",
+      "startFrame": 12852,
+      "endFrame": 12997,
+      "trackId": "s12-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 12852,
+        "endFrame": 12990
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s12-6-caption-0",
+      "nodeId": "n09",
+      "shotId": "s12",
+      "text": "7 月 16 日和平分共的训令、8 月 2 日明正典刑的布告、8 月 8 日的通缉名单，都落在 8 月 1 日南昌起义之后。",
+      "startFrame": 13001,
+      "endFrame": 13243,
+      "trackId": "s12-6",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 13001,
+        "endFrame": 13239
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s05-1-caption-0",
+      "nodeId": "n10",
+      "shotId": "s05",
+      "text": "七一五之后，武汉三镇几乎每日都有共产党员被枪决。",
+      "startFrame": 13251,
+      "endFrame": 13388,
+      "trackId": "s05-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 13251,
+        "endFrame": 13383
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s05-2-caption-0",
+      "nodeId": "n10",
+      "shotId": "s05",
+      "text": "济生三马路、裕华纱厂前、一纱厂一带、和记蛋厂、大智门，都洒过血。",
+      "startFrame": 13390,
+      "endFrame": 13609,
+      "trackId": "s05-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 13390,
+        "endFrame": 13604
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s05-3-caption-0",
+      "nodeId": "n10",
+      "shotId": "s05",
+      "text": "武昌阅马场与文昌门外，是另一批主要场所。",
+      "startFrame": 13612,
+      "endFrame": 13717,
+      "trackId": "s05-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 13612,
+        "endFrame": 13713
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s05-4-caption-0",
+      "nodeId": "n10",
+      "shotId": "s05",
+      "text": "人数有不同口径：湖北省委的不完全统计是数日内多至数千人，武汉市志则记胡陶统治期八百余人。",
+      "startFrame": 13720,
+      "endFrame": 13996,
+      "trackId": "s05-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 13720,
+        "endFrame": 13988
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s05-5-caption-0",
+      "nodeId": "n10",
+      "shotId": "s05",
+      "text": "还有一句被反复引用的话：宁可错杀一千，不可使一人漏网——但把它算在汪精卫名下，在当时文献中是有争议的。",
+      "startFrame": 14001,
+      "endFrame": 14311,
+      "trackId": "s05-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 14001,
+        "endFrame": 14303
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s13-1-caption-0",
+      "nodeId": "n11",
+      "shotId": "s13",
+      "text": "武汉党史网保存了一份大革命失败后革命烈士就义处的名录，记下几处主要地点和遇难者的名字：汉口济生善堂广坪、余记里空坪，武昌文昌门外，以及汉口水塔。",
+      "startFrame": 14314,
+      "endFrame": 14717,
+      "trackId": "s13-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 14314,
+        "endFrame": 14708
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s13-2-caption-0",
+      "nodeId": "n11",
+      "shotId": "s13",
+      "text": "李汉俊与詹大悲死在 1927年 12 月 17 日，是 11 月入汉的桂系势力所为。",
+      "startFrame": 14720,
+      "endFrame": 14906,
+      "trackId": "s13-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 14720,
+        "endFrame": 14902
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s13-3-caption-0",
+      "nodeId": "n11",
+      "shotId": "s13",
+      "text": "据《武汉市志·政党志》，当天武汉市公安局长林逸圣亲率军警在日租界将二人捕走，当晚未经审讯便予杀害。",
+      "startFrame": 14915,
+      "endFrame": 15226,
+      "trackId": "s13-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 14915,
+        "endFrame": 15223
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s13-4-caption-0",
+      "nodeId": "n11",
+      "shotId": "s13",
+      "text": "向警予 1928年 3 月因叛徒出卖被捕，同年 5 月 1 日被枪杀于汉口余记里空坪；湖北省委书记夏文法在 1929年 2 月省委再次被破坏时遇害。",
+      "startFrame": 15234,
+      "endFrame": 15590,
+      "trackId": "s13-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 15234,
+        "endFrame": 15583
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s13-5-caption-0",
+      "nodeId": "n11",
+      "shotId": "s13",
+      "text": "这些名字分属不同的身份：工人运动的组织者、农会负责人、党的省级领导，也有国民党的左派。被清的不只是共产党，反对清党的国民党人同样会死。",
+      "startFrame": 15593,
+      "endFrame": 15933,
+      "trackId": "s13-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 15593,
+        "endFrame": 15926
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s14-1-caption-0",
+      "nodeId": "n12",
+      "shotId": "s14",
+      "text": "据中共湖北省委不完全统计，1927年 8 月至次年上半年，全省党员、群众被杀害的多达 3.8 万余人，其中共产党员、共青团员和各级负责干部占多数。",
+      "startFrame": 15935,
+      "endFrame": 16335,
+      "trackId": "s14-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 15935,
+        "endFrame": 16332
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s14-2-caption-0",
+      "nodeId": "n12",
+      "shotId": "s14",
+      "text": "党员人数由大革命高潮时期的 1.7 万余人减到 2000 余人。湖北省委书记 9 月上旬给中央的报告说：罢工后减至二千五百，八月中旬更减至二千，现在仅存一千二百六十九人了。",
+      "startFrame": 16339,
+      "endFrame": 16817,
+      "trackId": "s14-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 16339,
+        "endFrame": 16812
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s14-3-caption-0",
+      "nodeId": "n12",
+      "shotId": "s14",
+      "text": "工会方面，政变前武汉三镇有 11 个产业总工会、80 多个产业分会，约 33 万人的工会队伍被分化瓦解，政变后仅 1.4 万人还在党的领导之下。",
+      "startFrame": 16820,
+      "endFrame": 17200,
+      "trackId": "s14-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 16820,
+        "endFrame": 17191
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s14-4-caption-0",
+      "nodeId": "n12",
+      "shotId": "s14",
+      "text": "农村方面，1927年 5 月统计全省有 22 个县农协、32 个县农协筹备会、380 个区农协、3852 个乡农协，会员总数 284 万余人，农民武装有枪两千多支。",
+      "startFrame": 17207,
+      "endFrame": 17670,
+      "trackId": "s14-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6",
+        "run-0-c7",
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 17207,
+        "endFrame": 17664
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s14-5-caption-0",
+      "nodeId": "n12",
+      "shotId": "s14",
+      "text": "政变后，各级农协有的查禁、有的改组、有的被捣毁，农民自卫武装悉数被收缴。",
+      "startFrame": 17679,
+      "endFrame": 17894,
+      "trackId": "s14-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 17679,
+        "endFrame": 17891
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s14-6-caption-0",
+      "nodeId": "n12",
+      "shotId": "s14",
+      "text": "这些数字统计对象与区间不同，不能相互换算或相加，但方向一致：一度被称为赤都的武汉，浸透了革命者的鲜血。",
+      "startFrame": 17897,
+      "endFrame": 18152,
+      "trackId": "s14-6",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 17897,
+        "endFrame": 18146
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s15-1-caption-0",
+      "nodeId": "n13",
+      "shotId": "s15",
+      "text": "7 月 17 日，国民党中央工人部通令各省党部，提出严密党与工会关系等四项办法，把党对工会的控制固定下来。",
+      "startFrame": 18156,
+      "endFrame": 18435,
+      "trackId": "s15-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 18156,
+        "endFrame": 18431
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s15-2-caption-0",
+      "nodeId": "n13",
+      "shotId": "s15",
+      "text": "湖北反动政府随即取缔共产党，整顿和改组工会、农会、商民协会、妇女会、学生联合会，颁布限制性法令，严禁示威游行、群众大会与政治罢工。",
+      "startFrame": 18439,
+      "endFrame": 18871,
+      "trackId": "s15-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 18439,
+        "endFrame": 18866
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s15-3-caption-0",
+      "nodeId": "n13",
+      "shotId": "s15",
+      "text": "8 月 8 日的《清查共产党员办法》之后，党组织被打散，大量意志不坚定者登报声明脱离共产党、共青团，甚至公开悔过。",
+      "startFrame": 18877,
+      "endFrame": 19183,
+      "trackId": "s15-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 18877,
+        "endFrame": 19179
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s15-4-caption-0",
+      "nodeId": "n13",
+      "shotId": "s15",
+      "text": "武汉党史网的记载说得很直接：中国共产党的组织、活动被迫由公开转入地下。",
+      "startFrame": 19189,
+      "endFrame": 19374,
+      "trackId": "s15-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 19189,
+        "endFrame": 19366
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s15-5-caption-0",
+      "nodeId": "n13",
+      "shotId": "s15",
+      "text": "转入地下的中央机关就在汉口天津街 12 号。周恩来、邓颖超曾秘密居住于此，其后瞿秋白、杨之华、李维汉、邓小平也住在这里，筹备并主持召开中共中央紧急会议，决定举行秋收暴动。",
+      "startFrame": 19377,
+      "endFrame": 19858,
+      "trackId": "s15-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 19377,
+        "endFrame": 19853
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s15-6-caption-0",
+      "nodeId": "n13",
+      "shotId": "s15",
+      "text": "1927年 9 月，中共中央机关陆续迁往上海。这所房子 1983年被公布为武汉市市级文物保护单位。",
+      "startFrame": 19864,
+      "endFrame": 20123,
+      "trackId": "s15-6",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 19864,
+        "endFrame": 20118
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s04-1-caption-0",
+      "nodeId": "n19",
+      "shotId": "s04",
+      "text": "同一段时间，流传着三种说法，每一种都有文本依据。",
+      "startFrame": 20126,
+      "endFrame": 20267,
+      "trackId": "s04-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 20126,
+        "endFrame": 20262
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s04-2-caption-0",
+      "nodeId": "n19",
+      "shotId": "s04",
+      "text": "党史的口径是：七月十五日分共，同时实行大逮捕、大屠杀。",
+      "startFrame": 20270,
+      "endFrame": 20457,
+      "trackId": "s04-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 20270,
+        "endFrame": 20453
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s04-3-caption-0",
+      "nodeId": "n19",
+      "shotId": "s04",
+      "text": "汪精卫自己的说法是：分共分三阶段，转向严厉驱共是在南昌起义之后。",
+      "startFrame": 20460,
+      "endFrame": 20658,
+      "trackId": "s04-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 20460,
+        "endFrame": 20654
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s04-4-caption-0",
+      "nodeId": "n19",
+      "shotId": "s04",
+      "text": "武汉地方志的细账则把七一五定位成分共命令，屠杀高峰在十一月桂系入汉之后。",
+      "startFrame": 20662,
+      "endFrame": 20854,
+      "trackId": "s04-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 20662,
+        "endFrame": 20850
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s04-5-caption-0",
+      "nodeId": "n19",
+      "shotId": "s04",
+      "text": "三种说法并不必然互斥：七月之后确实开始抓人，成批处决在四个月后。",
+      "startFrame": 20864,
+      "endFrame": 21078,
+      "trackId": "s04-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 20864,
+        "endFrame": 21071
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s04-6-caption-0",
+      "nodeId": "n19",
+      "shotId": "s04",
+      "text": "真正有争议的是，七月十五日本身做了什么，责任又该算到谁头上。",
+      "startFrame": 21083,
+      "endFrame": 21258,
+      "trackId": "s04-6",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 21083,
+        "endFrame": 21249
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s16-1-caption-0",
+      "nodeId": "n14",
+      "shotId": "s16",
+      "text": "七一五之后，中共和武汉方面的关系断绝，被清出去的党组织必须自己拿起武器。",
+      "startFrame": 21261,
+      "endFrame": 21461,
+      "trackId": "s16-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 21261,
+        "endFrame": 21453
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s16-2-caption-0",
+      "nodeId": "n14",
+      "shotId": "s16",
+      "text": "7 月下旬，中共中央政治局临时常委会正式决定在南昌发动武装起义；7 月 27 日，成立由周恩来、李立三、恽代英、彭湃组成的中共前敌委员会。",
+      "startFrame": 21464,
+      "endFrame": 21895,
+      "trackId": "s16-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 21464,
+        "endFrame": 21892
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s16-3-caption-0",
+      "nodeId": "n14",
+      "shotId": "s16",
+      "text": "8 月 1 日，在以周恩来为书记的前敌委员会领导下，贺龙、叶挺、朱德、刘伯承等率领党所掌握和影响的军队两万余人，在南昌举行起义并占领南昌城。",
+      "startFrame": 21898,
+      "endFrame": 22327,
+      "trackId": "s16-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 21898,
+        "endFrame": 22320
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s16-4-caption-0",
+      "nodeId": "n14",
+      "shotId": "s16",
+      "text": "这里有一个容易写错的细节：",
+      "startFrame": 22330,
+      "endFrame": 22385,
+      "trackId": "s16-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 22330,
+        "endFrame": 22381
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s16-5-caption-0",
+      "nodeId": "n14",
+      "shotId": "s16",
+      "text": "武汉政府当时正在东征讨蒋，叶挺的第二十四师自 7 月 11 日起陆续开抵九江，贺龙部 7 月 10 日离开武昌驻黄石，这些调动当时的名义是东征，不是被逐出武汉。",
+      "startFrame": 22399,
+      "endFrame": 22782,
+      "trackId": "s16-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 22399,
+        "endFrame": 22774
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s16-6-caption-0",
+      "nodeId": "n14",
+      "shotId": "s16",
+      "text": "部队走向南昌，是 7 月 19 日那份要求军队政工人员与共产党脱离关系的通令，加上起义决策共同作用的结果。",
+      "startFrame": 22785,
+      "endFrame": 23051,
+      "trackId": "s16-6",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 22785,
+        "endFrame": 23047
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s17-1-caption-0",
+      "nodeId": "n15",
+      "shotId": "s17",
+      "text": "8 月 7 日，中共中央在汉口召开紧急会议，即八七会议。",
+      "startFrame": 23060,
+      "endFrame": 23200,
+      "trackId": "s17-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 23060,
+        "endFrame": 23193
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s17-2-caption-0",
+      "nodeId": "n15",
+      "shotId": "s17",
+      "text": "会议纠正了以陈独秀为首的中央所犯的右倾机会主义错误，确立实行土地革命和武装起义的方针，选举中央临时政治局，瞿秋白当选常委并任主席。",
+      "startFrame": 23204,
+      "endFrame": 23574,
+      "trackId": "s17-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 23204,
+        "endFrame": 23568
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s17-3-caption-0",
+      "nodeId": "n15",
+      "shotId": "s17",
+      "text": "常见的因果链是：毛泽东 1927年 3 月写出《湖南农民运动考察报告》，但他的意见没有进入中央决策。",
+      "startFrame": 23577,
+      "endFrame": 23807,
+      "trackId": "s17-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 23577,
+        "endFrame": 23804
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s17-4-caption-0",
+      "nodeId": "n15",
+      "shotId": "s17",
+      "text": "《中国共产党简史》记，五大上毛泽东完全被陈独秀排斥于大会的领导之外，并被剥夺了在大会上的表决权；接着发生四一二、马日事变和七一五，革命损失惨重，八七会议才把方向定下来。",
+      "startFrame": 23810,
+      "endFrame": 24250,
+      "trackId": "s17-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 23810,
+        "endFrame": 24245
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s17-5-caption-0",
+      "nodeId": "n15",
+      "shotId": "s17",
+      "text": "所以把《湖南农民运动考察报告》写成七一五的后果是错的：它写在 1927年 3 月，比七一五早了四个多月，它是前因和背景，而不是后果。",
+      "startFrame": 24258,
+      "endFrame": 24591,
+      "trackId": "s17-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 24258,
+        "endFrame": 24585
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s18-1-caption-0",
+      "nodeId": "n16",
+      "shotId": "s18",
+      "text": "分共的同时，汪精卫并没有放弃讨蒋，仍把蒋介石视为党国唯一的敌人。",
+      "startFrame": 24595,
+      "endFrame": 24769,
+      "trackId": "s18-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 24595,
+        "endFrame": 24761
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s18-2-caption-0",
+      "nodeId": "n16",
+      "shotId": "s18",
+      "text": "但蒋介石主持的北伐也不顺，徐州失守，桂系首领李宗仁软硬兼施，终于逼蒋介石与胡汉民等人下野，8 月 13 日蒋介石正式下野。",
+      "startFrame": 24772,
+      "endFrame": 25117,
+      "trackId": "s18-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 24772,
+        "endFrame": 25114
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s18-3-caption-0",
+      "nodeId": "n16",
+      "shotId": "s18",
+      "text": "武汉方面的机关从 8 月底、9 月初陆续迁往南京，两边合流。",
+      "startFrame": 25120,
+      "endFrame": 25255,
+      "trackId": "s18-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 25120,
+        "endFrame": 25251
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s18-4-caption-0",
+      "nodeId": "n16",
+      "shotId": "s18",
+      "text": "9 月 16 日，中国国民党中央特别委员会在南京成立并发表《宣言》，代行中央执行、监察委员会职权，改组国民政府，并定于三个月内筹备第三次全国代表大会。",
+      "startFrame": 25259,
+      "endFrame": 25665,
+      "trackId": "s18-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 25259,
+        "endFrame": 25657
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s18-5-caption-0",
+      "nodeId": "n16",
+      "shotId": "s18",
+      "text": "《宣言》说得很清楚：既继续清党，也继续北伐。",
+      "startFrame": 25668,
+      "endFrame": 25782,
+      "trackId": "s18-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 25668,
+        "endFrame": 25773
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s18-6-caption-0",
+      "nodeId": "n16",
+      "shotId": "s18",
+      "text": "这一天距七一五不到两个月，武汉政府就从革命政府变成了新南京国民政府的一部分。",
+      "startFrame": 25785,
+      "endFrame": 25968,
+      "trackId": "s18-6",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 25785,
+        "endFrame": 25964
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s18-7-caption-0",
+      "nodeId": "n16",
+      "shotId": "s18",
+      "text": "需要标明的是，这个阶段的日期在公开资料里并不统一：迁都南京有 8 月 19 日、8 月 25 日和八月底九月初三说，中央特别委员会的成立日有 9 月 15 日与 16 日两说。",
+      "startFrame": 25972,
+      "endFrame": 26365,
+      "trackId": "s18-7",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 25972,
+        "endFrame": 26361
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s18-8-caption-0",
+      "nodeId": "n16",
+      "shotId": "s18",
+      "text": "本稿只采用有文件可查的 9 月 16 日《宣言》落款，其余保留差异，不做取舍。",
+      "startFrame": 26370,
+      "endFrame": 26561,
+      "trackId": "s18-8",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 26370,
+        "endFrame": 26553
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s19-1-caption-0",
+      "nodeId": "n17",
+      "shotId": "s19",
+      "text": "同一个动作，有好几套叫法，而且每套叫法背后都是一次立场选择。",
+      "startFrame": 26570,
+      "endFrame": 26747,
+      "trackId": "s19-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 26570,
+        "endFrame": 26743
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s19-2-caption-0",
+      "nodeId": "n17",
+      "shotId": "s19",
+      "text": "国民党方面当时的官方措辞是分共：国民党中央 7 月 16 日的声明、7 月 27 日的《告中国共产党书》，以及汪精卫 11 月 5 日的文章《武汉分共之经过》，用的都是这个词。",
+      "startFrame": 26750,
+      "endFrame": 27157,
+      "trackId": "s19-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 26750,
+        "endFrame": 27154
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s19-3-caption-0",
+      "nodeId": "n17",
+      "shotId": "s19",
+      "text": "当事人的说法并不统一：瞿秋白回忆的是武汉的国共分裂，国民党左派邓演达批评的是武汉中央背叛革命，当时一位准备脱党的中共党员施存统则把决裂归因于争夺革命的领导权。",
+      "startFrame": 27160,
+      "endFrame": 27623,
+      "trackId": "s19-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 27160,
+        "endFrame": 27620
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s19-4-caption-0",
+      "nodeId": "n17",
+      "shotId": "s19",
+      "text": "七一五反革命政变这个标签并不出现在 1927年的当事人文本里，也不出现在两版《中国共产党简史》的正文里。",
+      "startFrame": 27627,
+      "endFrame": 27877,
+      "trackId": "s19-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 27627,
+        "endFrame": 27873
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s19-5-caption-0",
+      "nodeId": "n17",
+      "shotId": "s19",
+      "text": "它大量出现在面向宣传教育的党史专栏、武汉地方志与年鉴系统，以及纪念宣传材料中。",
+      "startFrame": 27879,
+      "endFrame": 28108,
+      "trackId": "s19-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1-p1",
+        "run-0-c1-p2"
+      ],
+      "observedRange": {
+        "startFrame": 27879,
+        "endFrame": 28099
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s19-6-caption-0",
+      "nodeId": "n17",
+      "shotId": "s19",
+      "text": "最实用的做法是把名称拆成两层：事实那一层有会议记录、训令、通告与地方党史记载可以对照；定性那一层是政治立场与叙述场合的差别。讲清楚这一点，读者才不至于被任何一个名字牵着走。",
+      "startFrame": 28111,
+      "endFrame": 28662,
+      "trackId": "s19-6",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 28111,
+        "endFrame": 28659
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s20-1-caption-0",
+      "nodeId": "n18",
+      "shotId": "s20",
+      "text": "需要专门排除两个同名异事。",
+      "startFrame": 28665,
+      "endFrame": 28725,
+      "trackId": "s20-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 28665,
+        "endFrame": 28721
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s20-2-caption-0",
+      "nodeId": "n18",
+      "shotId": "s20",
+      "text": "其一是 1948年 7 月 15 日昆明的七一五学生运动：宪警在警备总司令何绍周指挥下进攻云南大学会泽院和南菁中学，抓捕学生八百多名，这与 1927 年武汉毫无因果关系。",
+      "startFrame": 28730,
+      "endFrame": 29202,
+      "trackId": "s20-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 28730,
+        "endFrame": 29198
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s20-3-caption-0",
+      "nodeId": "n18",
+      "shotId": "s20",
+      "text": "其二是番号：1937年八路军第一二〇师三五八旅下有七一五团，是部队代号，不是事件名称。除此以外，本次检索未找到以七一五命名的其他重大事件。",
+      "startFrame": 29210,
+      "endFrame": 29651,
+      "trackId": "s20-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 29210,
+        "endFrame": 29645
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s20-4-caption-0",
+      "nodeId": "n18",
+      "shotId": "s20",
+      "text": "今天武汉与这段历史相关的地方是以别的名义存在的：八七会议会址纪念馆、武汉中共中央机关旧址纪念馆、武昌农民运动讲习所旧址、毛泽东旧居、中共五大会址，以及汉口民国日报社旧址。",
+      "startFrame": 29654,
+      "endFrame": 30153,
+      "trackId": "s20-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 29654,
+        "endFrame": 30147
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s20-5-caption-0",
+      "nodeId": "n18",
+      "shotId": "s20",
+      "text": "真正专为这些死难者而立的地方是汉阳龟山的红色战士公墓，即今天的向警予烈士陵园；没有一座场馆以七一五命名，但这段历史就保存在这些地址里。",
+      "startFrame": 30156,
+      "endFrame": 30527,
+      "trackId": "s20-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 30156,
+        "endFrame": 30519
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s21-1-caption-0",
+      "nodeId": "n21",
+      "shotId": "s21",
+      "text": "7 月 26 日至 28 日，汪精卫、孙科、谭延闿、张发奎等离开汉口赴九江、庐山密商加紧清共，会议据传决定：",
+      "startFrame": 30530,
+      "endFrame": 30852,
+      "trackId": "s21-1",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 30530,
+        "endFrame": 30848
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s21-2-caption-0",
+      "nodeId": "n21",
+      "shotId": "s21",
+      "text": "严令贺龙、叶挺限期将军队撤回九江，封闭九江市党部、九江书店与《国民新闻报》馆并逮捕其负责人，第二方面军实行清共，通缉恽代英、廖乾吾、高语罕等。",
+      "startFrame": 30856,
+      "endFrame": 31291,
+      "trackId": "s21-2",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 30856,
+        "endFrame": 31287
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s21-3-caption-0",
+      "nodeId": "n21",
+      "shotId": "s21",
+      "text": "同一批人里还有另一种动作。",
+      "startFrame": 31294,
+      "endFrame": 31350,
+      "trackId": "s21-3",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 31294,
+        "endFrame": 31346
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s21-4-caption-0",
+      "nodeId": "n21",
+      "shotId": "s21",
+      "text": "据《中华民国史大事记》等史料的记载，汪精卫曾打算通知贺龙、叶挺参加庐山会议并令所部集中德安。",
+      "startFrame": 31360,
+      "endFrame": 31636,
+      "trackId": "s21-4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 31360,
+        "endFrame": 31632
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s21-5-caption-0",
+      "nodeId": "n21",
+      "shotId": "s21",
+      "text": "而贺龙、叶挺、叶剑英、高语罕、廖乾吾等在鄱阳湖的小船上开紧急会议，决定不去庐山、部队亦不去德安，按第二十四师、第二十军的顺序迅速向南昌开进。",
+      "startFrame": 31641,
+      "endFrame": 32102,
+      "trackId": "s21-5",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 31641,
+        "endFrame": 32097
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s21-6-caption-0",
+      "nodeId": "n21",
+      "shotId": "s21",
+      "text": "这两组安排在同一个星期里交错：一边在庐山密商如何把部队收回去，一边在小船上决定把部队拉向南昌。",
+      "startFrame": 32105,
+      "endFrame": 32342,
+      "trackId": "s21-6",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 32105,
+        "endFrame": 32339
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "s21-7-caption-0",
+      "nodeId": "n21",
+      "shotId": "s21",
+      "text": "8 月 1 日凌晨，贺龙、叶挺、朱德在南昌率部起义。武汉方面随即下令申讨，严令第二方面军总指挥张发奎率部进剿，于是原本用来东征讨蒋的部队，在半个月内变成了内战的两方。",
+      "startFrame": 32345,
+      "endFrame": 32813,
+      "trackId": "s21-7",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 32345,
+        "endFrame": 32809
+      },
+      "displayEndOrigin": "reconstructed_design"
+    }
+  ]
+}

@@ -1,0 +1,1140 @@
+{
+  "media": [
+    {
+      "id": "m01",
+      "kind": "portrait",
+      "title": "汪精卫（1926 年 1 月摄于广州）",
+      "subject": "汪精卫，1927 年任武汉国民政府主席，7 月 15 日主持武汉国民党中央常务委员会扩大会议",
+      "createdDate": "1926 年 1 月（Commons 元数据记 DateTimeOriginal 为 1926-01，地点广州）",
+      "eventDate": "1927 年 7 月 15 日相关人物肖像，非事件现场照片",
+      "creator": "摄影：符聘昌（Fu Bingchang），香港大学档案数字化藏品编号 Fu-n127；Wikimedia Commons 标注来源 hpcbristol.net/visual/Fu-n127",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wang_Jingwei,_Canton,_January_1926_(Fu-n127).jpg",
+      "license": "Public domain（公有领域）",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+      "caption": "汪精卫，1926 年 1 月摄于广州。1927 年 7 月 15 日，他在武汉国民党中央常务委员会扩大会议上作以“分共”为主旨的报告。",
+      "derivation": "直接取自 Wikimedia Commons 公有领域文件，未作裁切、修饰或内容改动。",
+      "evidenceLimit": "照片摄于 1926 年 1 月广州，早于七一五约一年半，非事件现场影像，不能用于确认会议地点、出席者或当日情形。",
+      "file": {
+        "path": "media/m01.jpg",
+        "sha256": "b3324f5341a14f67a64c5dbf266aa6290f29101312de51c1e6935b80d92b716c"
+      }
+    },
+    {
+      "id": "m02",
+      "kind": "portrait",
+      "title": "唐生智",
+      "subject": "唐生智，时任国民革命军第八军军长、后来任第四军军长，驻两湖",
+      "createdDate": "未标注拍摄年份（Commons 元数据所记 2009-08-23 为扫描时间）",
+      "eventDate": "1927 年 4 月—7 月相关人物肖像，非事件现场照片",
+      "creator": "Wikimedia Commons 用户『天竺鼠』扫描自《最新支那人物写真》",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tang_Shengzhi.jpg",
+      "license": "Public domain（公有领域）",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+      "caption": "唐生智。北伐时期驻两湘鄂的军事实力派，其部队是汪精卫在武汉最倚重的筹码，也是七一五后各方角力的对象。",
+      "derivation": "直接取自 Wikimedia Commons 公有领域文件，未作裁切或内容改动。",
+      "evidenceLimit": "旧照非事件现场影像；与七一五的关联属史实叙述，照片本身不能证明其具体行动或时间。",
+      "file": {
+        "path": "media/m02.jpg",
+        "sha256": "377da0b9d7b634a5fd48a6877651e0a857d864ede1565c99aec75ea073af300c"
+      }
+    },
+    {
+      "id": "m03",
+      "kind": "portrait",
+      "title": "陈独秀",
+      "subject": "陈独秀，时任中共中央总书记，1927 年 7 月离开中央领导岗位",
+      "createdDate": "未标注拍摄年份（Commons 元数据记原件约 1919 年 1 月，扫描于 2011 年）",
+      "eventDate": "1927 年 7 月相关人物肖像，非事件现场照片",
+      "creator": "Wikimedia Commons 用户『天竺鼠』扫描自民国时期人物志",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chen_Duxiu.jpg",
+      "license": "Public domain（公有领域）",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+      "caption": "陈独秀。1927 年 7 月 4 日他与鲍罗廷主张暂不执行共产国际指示，7 月 12 日离开中央领导岗位。",
+      "derivation": "直接取自 Wikimedia Commons 公有领域文件，未作裁切或内容改动。",
+      "evidenceLimit": "旧照非事件现场影像；与七一五相关的行为依据党史文献转述，照片本身不构成证据。",
+      "file": {
+        "path": "media/m03.jpg",
+        "sha256": "1aac5ecd9d1aacf0748360688646eddb2c96c540103eaf82de87587b839b9970"
+      }
+    },
+    {
+      "id": "m04",
+      "kind": "portrait",
+      "title": "冯玉祥",
+      "subject": "冯玉祥西北军领袖，1927 年 6 月先与汪精卫会于郑州，后与蒋介石会于徐州",
+      "createdDate": "约 1930 年（Commons 元数据标注）",
+      "eventDate": "1927 年 6 月相关人物肖像，非事件现场照片",
+      "creator": "Wikimedia Commons 记为不详作者",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Feng_Yuxiang.jpg",
+      "license": "Public domain（公有领域）",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+      "caption": "冯玉祥。6 月 10 日至 12 日他与汪精卫一方在郑州会晤，6 月 19 日又与蒋介石在徐州会面，是汪精卫失去第三方支持的关键一环。",
+      "derivation": "直接取自 Wikimedia Commons 公有领域文件，未作裁切或内容改动。",
+      "evidenceLimit": "拍摄时间晚于 1927 年事件约三年，且非事件现场影像；郑州、徐州两次会面的具体内容依据转述，照片本身不构成证据。",
+      "file": {
+        "path": "media/m04.jpg",
+        "sha256": "18b467a2a22f20e68025cb0b5773030726e6f9bfbabfe975b31e7b4b8db765ed"
+      }
+    }
+  ],
+  "audio": [
+    {
+      "id": "s06-1",
+      "sha256": "31e93cd7a0b59d1047d48a8a4c891685e4f4417b967ee5e6c39b5a56a1a75cfd",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-69b1c7147416db22/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s06-2",
+      "sha256": "94f80b7973fda771549f48269902d62f5dd6791572219c3bf5b016637477bbfe",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-8f7cbad34668ab83/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s06-3",
+      "sha256": "d92d55447c9a4147b0dd61a8555ad6df5fd9a87b7dfea2c73786d3af6f5a07ad",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-5bb6d5b7f482e140/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s06-4",
+      "sha256": "43406765d5e0174c8de563eaf933ff2d1b7b51bba25de7c45c53b65d653c554f",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-c13bfef83e94c921/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s07-1",
+      "sha256": "438d0ded8a7dc5838ce440670ee91d9a6dbb33544aeb789fb8e0ecf87069f833",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-65da00188d09608f/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s07-2",
+      "sha256": "eb09e3f1042b964181ad98ba07f5fa35fb8f2a632cfa099f050eb4cf29396126",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-f6a202414b02ad00/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s07-3",
+      "sha256": "32440db0171c4b8b7a3b0b724b1777980c08394bddda89944f97a42928a39fae",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-0c733ba77084f9e7/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s07-4",
+      "sha256": "eb7ca0f967f0d02a068a363a94bd77f3fb2b0cf6d51059ef8600620fce70509a",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-3b34b848ae706d9b/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s08-1",
+      "sha256": "bd5e30c590c4ff3b2331c6ea052484685c787683ebbe948088aba90b27a1d64c",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-8ce138ad2af57f37/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s08-2",
+      "sha256": "e07d875ece6d5aeb8a95fd3a0c96d685b8194869a4a49acc73501025fce03078",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-49077c50160aa927/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s08-3",
+      "sha256": "1135331c6e7334ad384e96a62f8ef8542bbcd3ad5bd92c8145d3168caa9bbcee",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-c805e173fc8f2373/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s08-4",
+      "sha256": "af6f1449b0690bd8627c106ba91bc5a45127cf3255cbc70df6c548cd231b471f",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-97a6d022454a1478/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s09-1",
+      "sha256": "ca19eeaa58acf87c5fd30b3ecb27b8f6fc3115585785bafa1e98c98e441224c8",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-5700a1fc65a142bb/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s09-2",
+      "sha256": "8989938d8bed36675746fdd3cc11786c69de2bfeedf3f28c5f9864ad03fa9fe5",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d179e955f0b2ad8b/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s09-3",
+      "sha256": "6673ce21bf1e3ec3e5d16ecf5c33b3c10810143639580ed9e083f0bd1d676d19",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d6bf517a6e611537/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s09-4",
+      "sha256": "21fa2bce299899e035827fb4094e4993ae44b4ccfc0ff63834894b981666ce46",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-9259b6bfb0497f83/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s09-5",
+      "sha256": "71b2f1c109bf24cf6f8f285af81d9c2525c3175133e729b7b8c2d5129d195159",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-f13f521f797b3cd1/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s01-1",
+      "sha256": "71bf9b8556b45f2700e96664324c0a1b1b33d16e973dcbac44ad0078c328df14",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-a38e308a65f930ca/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s01-2",
+      "sha256": "6033261376ce3b0bfc001edd9abb7ecc19e39d173e591d9c83ec9964af428863",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-84f8afb3b56cf9f6/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s01-3",
+      "sha256": "34f774e505353cbe47d94b62af48f11d6b33dd753be87fe47d79792b171b40c4",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-ccecd1d43dfd70c9/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s01-4",
+      "sha256": "de93fcccf08c9c84bd4bca09b3f8a0b35ceccd8d45cb8778652f8cd2cec4b05c",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-9ae2b070c3076f0d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s01-5",
+      "sha256": "6bfea78178309caebda221d1a7fadcd1452988d329cb1ee33da36cb9cd2d797f",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-4783290c1751457d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s10-1",
+      "sha256": "b48ead35304d13b31ff22e597a76c3864991f8848681ed2a2e5913d893c8d904",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-64d8d8114bfc8a3f/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s10-2",
+      "sha256": "cc8eecfe174397ee388ef16a3e107a4d46b29cb252593e9910dd48f73b350e8a",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-c1909796e5c95cbf/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s10-3",
+      "sha256": "8a218c55dcecfba344ad5cd9c7639599b423d03486199937b151567146ac31f3",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-991df329126a29f1/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s10-4",
+      "sha256": "f0c18175b9b342b739fee80221592d8d4a4b52f66951ea00ff56e33e19d7e262",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-f343b826aafad364/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s10-5",
+      "sha256": "e080db9cf6cc1e418a6ec65f95799d371b5e80d4ebf65dfc05bb92865e8f3740",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-be7faaad4de0aecc/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s02-1",
+      "sha256": "0c78ee1e878cad490fd95c0caf5c8268187213de459cad073e0ad511b530eeab",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-ba25713133ecd4a5/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s02-2",
+      "sha256": "b31670c3c5fbb0b5dde83b5ad230001806251b4eebc9a97d99262c682f7692b3",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-75e1d746a5d7f12a/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s02-3",
+      "sha256": "e0caf288d8de45f0aa1832d378d5d05dcb3fda32eba81fbe580f50ea256cdd4c",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-646dbaaaeb44a91d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s02-4",
+      "sha256": "90f64173075a0b893e7b3a16e03c7feb0d0c6fe857df6198e92688034779601d",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-8e6d47018c0a0dcf/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s02-5",
+      "sha256": "1b02387e3fd7ad90483fd07bc3c31718558376417b994bd106f19bb47fbcdbc1",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-54e8bcaed918d1e5/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s02-6",
+      "sha256": "ae6ab695579a13a22a7186bda29708de892145915d584344af20858314542b4e",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-1fe030806225d116/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s11-1",
+      "sha256": "36071d68a670967dd58b642d3009d3308dfd31c704af50d4c250fd7604147003",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-b5f80be3e3e97b00/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s11-2",
+      "sha256": "40c17e51398ee0bd84159524917470ae62eac39f4f05dc7511384cb7c1582cb7",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-271a244b2973a47e/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s11-3",
+      "sha256": "e3e9d0825cae85e78d7f0fbedf80da526bda98623ebbc23becf3fd879054059e",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-565e0218bb1552b9/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s11-4",
+      "sha256": "fbe622451da74c1568e1d5a13a97d0ffa1cc7b4a2cb8cdea5b6f44ce1bc092b9",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-5120cd785b38c9a7/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s11-5",
+      "sha256": "6fdbe005cfb2f823049e3c5c9cff7111aecda5ae4af2be561b93f85e9380ecc6",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-e10432dfde720224/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s11-6",
+      "sha256": "f9364af026d26ff6f0f2003e20282bd91188caa1e1203c1524f598044dc29b99",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-5e6c944f4b5442e5/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s03-1",
+      "sha256": "0981d57a6c606091ed0e1cfeebf6551a8c89633002f77b32af94e31f12d80580",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-c2615b2166da2c44/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s03-2",
+      "sha256": "dd33c5705ca39969695164a4cd26cce8642d3eb2b4ae4ac06b4c370606ddee7c",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-3df80cba696343fe/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s03-3",
+      "sha256": "8e859021e85667aa02156fa048eee4ce317db11ae24a5a7b8eacb70eee971d12",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-b688ba50b60110ab/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s03-4",
+      "sha256": "993401bd69b4c7ad4b8fd73bbc4a4f58c5558be7ec08b7c6217b2b3c5b32813a",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-2dfafa49199dda12/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s03-5",
+      "sha256": "c5d326c16b94044e4ab53fd3edb9c77405fff053e7f8d69dd3c86302b6fed46b",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-f5efbf10fb2e8b11/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s03-6",
+      "sha256": "4d84edbfa29c43663d921321a2f3a4038945124cf3e10f70ceabc3db5c89806d",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d9750c55a9eaaac4/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s12-1",
+      "sha256": "f0a6d86f42e7e4991dfc3dcb339244525c1ae8b8564ae65f0202fba2db5faa52",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-3fdfe09df0af8e03/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s12-2",
+      "sha256": "a3217ef8240aa706dbba824721e68cd688e7608208927ebed1550d19b43a229c",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d98f8bf1b7148b6c/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s12-3",
+      "sha256": "3341482ef846891cdd0c7824868416e667335249814e40ca61c12c3851ccb99f",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-53a23cfcef96115a/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s12-4",
+      "sha256": "0aac75452d7d4d96001ef26080d8d7aa379fcb79b312e3e89b8c2713259c9108",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-a3ddb959cc128974/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s12-5",
+      "sha256": "b3a4aed271c0308730f2943b8c5fe118ac53e6309d039bd8dc2ca5447fc6af4b",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-22f5949492005a0e/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s12-6",
+      "sha256": "79baa4b6c2a5af17dcd0ca449ed0d406daf14f84a97871d0fbbb0647e8279c59",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-3e88410cade7bfb7/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s05-1",
+      "sha256": "7a12ca23ac8b54b4e5b3a67523b313f116a04ec564f84f82a8f7788a9d9dacef",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-1231cd47263b0910/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s05-2",
+      "sha256": "e1272a6bea9b786e7d4b57002925e4f5949b2b84fd955aeae8e87fbbf2474eaa",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d91eacc56f5cce6d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s05-3",
+      "sha256": "e53d272b147004f69e2c332782451db115a7e4ef8057118193362f75ecf60276",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-332bd403b7aa1a79/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s05-4",
+      "sha256": "d7f72ba773352388a3cf6dd4e2f4e68e3cddcf73622860ef7def9aead5fc9c70",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-6c3458ff3ce23d4d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s05-5",
+      "sha256": "df197089f9554107380c9a226c0c0d20d242a0d9ab64aefe0cd9dd1ea2ab2b73",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-94c715f9ade61810/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s13-1",
+      "sha256": "030c27556cb36b46ca5a4e5b5f663f9b5445386aaa91a8e6e52832e72b3e2d8a",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-051d477da9540ff4/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s13-2",
+      "sha256": "029630bfcc9cfc344f4af256650281a70323f7e610278329ab801f3bc21f5ce4",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-248c328593507385/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s13-3",
+      "sha256": "3206f8d537ba5fc3d15d928bfd6b11622ca5bca62713a89c4630a3b31a74a2b9",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d464d887cb0593e9/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s13-4",
+      "sha256": "6519bfb9314360a826f98f7e0dd982f3862e3d593dc5820308a08c3bc42da6ba",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-87bfd62f78dbc5bf/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s13-5",
+      "sha256": "17c1c6dfad00ee846b28ea2e74094b4cfb32de60de91a235bcfa835b2f3db7b4",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-61f464e02f9f094c/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s14-1",
+      "sha256": "54b33c55b597c2952aa2201163a77594449c8f94207fc60d9b3ac95ee1ed2c69",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-68df1f36dd704b73/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s14-2",
+      "sha256": "41e68df672f5dd0e2ea19b9964496081f48a1ef46027ad1907ccf20103c1e073",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-02dd6d8421b7cc53/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s14-3",
+      "sha256": "7b54c4adb5ce6a90c1a265194edd3ce5c462affd9ad9215257730f75f975812f",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-70d43bdbe3169b03/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s14-4",
+      "sha256": "3bdeea6837269b8732343895b939dc6156a0de97d8f00a06a6f27de190b2a8b4",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-928ed84621dd603e/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s14-5",
+      "sha256": "9d1a1b35855d7b5fa23e7e6f1001e61ea0d36084a020a80d522b25ca8481ace2",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-9c127aeb38e471cf/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s14-6",
+      "sha256": "0419ff8a35dc309e44c710a8d0b92d3e124707f097ebb0028ce152603c894c58",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-713828918195a42b/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s15-1",
+      "sha256": "a0c609a5b7bb17cb70bb065d936da39bb4c02801a152dabedf652df2664c0815",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-4abedfdfb962eba7/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s15-2",
+      "sha256": "7e03e2b1d569bb206166f6cbaf838d679770a6df524c1fd16d59c854924a6e17",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-395537a74dc1b4d0/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s15-3",
+      "sha256": "d221d82fba635c653ca6f4280fa4d705c3706cf2b438224a51291ddc246532d2",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-8697506ccbafe54f/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s15-4",
+      "sha256": "1930034a2850f5c797093ab7ca202c76f6aebd5e0f30979f77ad56295d0c3a52",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-35fe4cf0d1549c29/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s15-5",
+      "sha256": "cdf7b9a2e6d5999fd25204469b7f60d9a6ad4f73d095d42f4b9aac79c0f0b8bb",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-54eac75699491d80/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s15-6",
+      "sha256": "792e40d93df3c37cfafabf1f507a61cf468aefb02286a72d4df14dae9236d95d",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-32ed16ebd788291d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s04-1",
+      "sha256": "5802a11d2c92e33c473991ff98a8d740f24e07fdcab1dd876ebb2406a80160d1",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-8af028cd14195a40/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s04-2",
+      "sha256": "8c77b407a0f22ab0a6c39e9bbe8853b9530b6a71d45b03dda7517fb2f62166a7",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-4bd4e956b1669fea/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s04-3",
+      "sha256": "ecfa63b3f32b99c25b07c25d18c768e35721651f6fb4f1ca37b28aa1a1c28d99",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-e1a70bb1df64c3a5/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s04-4",
+      "sha256": "bc5d7c7530efdd3bb681808cd54a1c85d987bf25d9dfca9946d5a98c48c20059",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-04d869d28cc2a584/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s04-5",
+      "sha256": "c1979022a179f865bd6d41ab022538467263d5791f7725a1ffb5e620d865f0e3",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-7ed8caca24130f6e/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s04-6",
+      "sha256": "2f119f5c99f7c6bfbe18f3a847609ae5cc33032c9985c62e890d5a4c6b574c91",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-f9c0f5fe5e5fb342/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s16-1",
+      "sha256": "b7c2116016248537af3419af6ed2036a350f73445291c8120606979fe97175b0",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-9b5f32c40d16e459/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s16-2",
+      "sha256": "377ca84df55d06270c143521a75999e17ae4f9a8b294cadd0c242f0c2057bbe8",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-424c731b0cdd2a3a/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s16-3",
+      "sha256": "50c70cac31488499136f9541f02540defa3e4dd34af0db1f58d6024bd5256ad1",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-4927bf02b880aa71/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s16-4",
+      "sha256": "f44c9ce9e5dc8657a3d3d89f25a823437804789a8c0d5a7dbe05e56a245c7e35",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-94d809ee8eb0965d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s16-5",
+      "sha256": "b26063f2996bafa70545497867353a10cb8babe8acf3722993a1c1c645846626",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-4fab1a6d8e8267dd/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s16-6",
+      "sha256": "0f6aa906edd08573adb6fa7708ba4c0ac877f0f2c0520048fe35e79b3d977ba2",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-9e3c24150ab4e2b9/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s17-1",
+      "sha256": "7d10f958bd4b80ac287a247ddafa906045447fd2808340b4b9c1fae660c483c8",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-e3f7965057d1780a/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s17-2",
+      "sha256": "70a35a91a5b0f56174501eae0cb01c001338c87d2ce748c98202cf6963cf0e77",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-0870bc08ed8cca85/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s17-3",
+      "sha256": "2e8d62f8f11600bfe1eea244a6089d33ca145dc57f0be63aab147ac6cb2f3a2e",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-8f7ecee9b273e563/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s17-4",
+      "sha256": "d0fc9b4059af4b33ef5160e3a02f4f7b65546c29200a726d641ae2739d8f7409",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-b4c79603cf07fd8a/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s17-5",
+      "sha256": "a7895e67995b36761943e9c4585fb7aa15392932c9ae4687509cf0860b4bfaeb",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-f3d446ddbd323e91/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-1",
+      "sha256": "fb55c2481ad71ee6eb7b115b667e04b81baec7e527d8bc5398255f99605f6b04",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-005b1c80519b5cde/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-2",
+      "sha256": "ee9bccbbb75d5483084158cf5285afb7dfebf1295dbbbe539a7d1e44ddeff74c",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-626cfdf4e6b58a6d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-3",
+      "sha256": "9d6e10a9dd39c6e9af0f714ca14ebf017ed586c7eecc29304e0ac243c0aa15cf",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-02ce9bb2bc7e4799/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-4",
+      "sha256": "81590832181980dbfd3c22d14174acef250462b3b0419b406e7a0eb17bdb2df4",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-b10bff000677fed5/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-5",
+      "sha256": "b77c8f9dc843c47ede3c4c7acc664609076981297ec33e8f0338a92c640ac008",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d6f6cc68f71e79f3/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-6",
+      "sha256": "365043c412f27c3f14e41fe5043b747c4d11b14c7fc807b35de8192e36f13a41",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-089e23fe65f974ea/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-7",
+      "sha256": "6e8e2836ff73ee34099365296ed604bab5a39b8fdecf6a08b7b6900179df736c",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-dd1ef70a526add39/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s18-8",
+      "sha256": "1f454d0d53b617fa8fda7d244e95382573a9130492e71e641daa490c74a6ad9c",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-02dbd3f4fc3d9a26/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s19-1",
+      "sha256": "d5f57100fae9d12e27bb062c2d2bdf75505af3e1b0f8c1030d02cb89a01ab86d",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-d72f941753f7ef06/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s19-2",
+      "sha256": "19755a9540f34c731e312899539977702799f6777b9e61322af6e79329cf3ecd",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-ba831ea940f55789/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s19-3",
+      "sha256": "3233df20f7728a9a3975780aba91f43817ecdbb1c9e8df65afc696285213eb7d",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-24be4fb86bcce6f0/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s19-4",
+      "sha256": "7c3402f6951ba44e70ad094df4a1131d67f0450999fc64e4dcc710b078a37699",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-22f43e39490e376c/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s19-5",
+      "sha256": "c7a925c3c9cb7eb5fb1f44c7e1e76f3028f777eb4da8d05871a776e6e3e05bba",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-7b0d978e31570cd1/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s19-6",
+      "sha256": "86f6a0037b4119fd7b1210b343f777f630c59e4620618a2981fc0de19a692148",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-9a373bd8de4ab10b/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s20-1",
+      "sha256": "284219e4d9bce4b307248403dee66ac4da5fcd01a844d08c7dd7fd38a1d86c25",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-eee8023e4c0f829c/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s20-2",
+      "sha256": "b850733897751c6d9b39a7c9582f76b1a883096ed580e2118cfe23f88ac5fb43",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-372e0a319ef62fb3/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s20-3",
+      "sha256": "1578db6d0e279de5a72d2def06f7ea0d75c8726ade9c30a3230aeab01da0517a",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-690fed554ccfcd86/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s20-4",
+      "sha256": "bddec2b4d1db030e8bf171d0e7f024fad162cb7b615ea34902bf2ad9257aec46",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-9c42557fe0493f05/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s20-5",
+      "sha256": "a4273d924a94cbff841f3e309ecad01531371347fe0929a9d38a5c0392c13159",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-c53d9ee4a27e681e/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s21-1",
+      "sha256": "b1dec6f8e9a15634e46b513e2c8a9f741fd5f51d5eb017c7f84848883fcead13",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-aa34249c2ccaf138/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s21-2",
+      "sha256": "b5fb30e0cee12bcd45d6c872e4660ae3116d3a4e88d5b7b0b2b17b2c4105d6c3",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-bee4ace4da6c74bd/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s21-3",
+      "sha256": "3729ff7e78ca1f9b2f3f9e2efdd7697502f4a6810e071a2aa429e0179795cc57",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-da04b8fe20a06065/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s21-4",
+      "sha256": "2ffc5d59683bef1f27ee904fc1907ef669835dbd3e06026669f43e2f15c4dd3f",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-f6e416d199aed867/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s21-5",
+      "sha256": "0cc17e6f7873a2f4d5d4ec1cd4687757bef0dcaacc9a47913fcea359792fb541",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-014c41a8a0f48cdb/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s21-6",
+      "sha256": "e0d3fef6c59a15823db5f712fe54717f0040129fe91905daec3e66bd1c85159c",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-0276b66ea4f13e1d/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "s21-7",
+      "sha256": "79eccdf039909d74048c462aaa891e16da2177fae5ec5e5209bfa8e69a05bdcc",
+      "provenance": {
+        "source": "MiniMax 语音合成回执 audio/speech-eee5107e54bf1c3b/receipt.json（provider minimax-global / 凭据 minimax-io / 音色 Chinese (Mandarin)_Radio_Host / speed 1.0）",
+        "license": "本作品获准使用的许可范围：MiniMax 国际站（api.minimax.io）speech-2.8-hd 合成语音，用于本历史解释作品的声音轨与公开发布。"
+      }
+    },
+    {
+      "id": "background-music",
+      "sha256": "759858554c99b746c751f20a4cdd7fada57ccb2f32771c2e2c706cba56ee1243",
+      "provenance": {
+        "source": "FFmpeg from locked local audio",
+        "license": "来源与授权见公共混音回执及原始资产记录"
+      }
+    },
+    {
+      "id": "fixed-mix",
+      "sha256": "d6ecf43da326291722b8f02690e64dfd4d9f502b157fdb4aad09754d835fb06e",
+      "provenance": {
+        "source": "FFmpeg from locked local audio",
+        "license": "来源与授权见公共混音回执及原始资产记录"
+      }
+    }
+  ],
+  "fonts": {
+    "schemaVersion": 1,
+    "preset": "china-modern",
+    "catalogSha256": "8b20d595615809ea6bb025c213af4072a87831da4ad39d9d77dab55dd35500d2",
+    "nativeSelectionSha256": "e2c03647c8b292e67a902a1f1022efd947f46050cc5f7e4865b6cf994eb6c1b4",
+    "roles": {
+      "heading": {
+        "id": "zhuque",
+        "native": {
+          "font": {
+            "path": "fonts/558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4.ttf",
+            "sha256": "558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4"
+          },
+          "weight": 400,
+          "style": "normal"
+        },
+        "weight": 400,
+        "style": "normal",
+        "cssFamily": "HistoryHeading0",
+        "faces": [
+          {
+            "id": "zhuque",
+            "family": "Zhuque Fangsong (technical preview)",
+            "postscriptName": "ZhuqueFangsong-Regular",
+            "subfamily": "Regular",
+            "weight": 400,
+            "cssWeight": 400,
+            "style": "normal",
+            "axes": {},
+            "font": {
+              "path": "fonts/558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4.ttf",
+              "sha256": "558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4"
+            },
+            "licenses": [
+              {
+                "path": "licenses/font-558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4-0.txt",
+                "sha256": "66cc01ad4df62fca6936431a426104cb32a52ce8da49de9a7d643e02d7659043",
+                "url": "https://github.com/TrionesType/zhuque/blob/v0.212/LICENSE.txt"
+              },
+              {
+                "path": "licenses/font-558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4-1.txt",
+                "sha256": "f46cf892b8b299eb03dce95d15d21fb5e745a58d66a8cf94c92a8509a5c0d5ff",
+                "url": "https://github.com/TrionesType/zhuque/blob/v0.212/README.md"
+              }
+            ],
+            "source": {
+              "url": "https://github.com/TrionesType/zhuque/releases/download/v0.212/ZhuqueFangsong-v0.212.zip",
+              "version": "v0.212 technical preview",
+              "repository": "https://github.com/TrionesType/zhuque"
+            },
+            "cssFamily": "HistoryHeading0"
+          }
+        ]
+      },
+      "body": {
+        "id": "neo-xihei",
+        "native": {
+          "font": {
+            "path": "fonts/893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c.ttf",
+            "sha256": "893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c"
+          },
+          "weight": 400,
+          "style": "normal"
+        },
+        "weight": 400,
+        "style": "normal",
+        "cssFamily": "HistoryBody0",
+        "faces": [
+          {
+            "id": "neo-xihei",
+            "family": "LXGW Neo XiHei",
+            "postscriptName": "LXGWNeoXiHei",
+            "subfamily": "Regular",
+            "weight": 400,
+            "cssWeight": 400,
+            "style": "normal",
+            "axes": {},
+            "font": {
+              "path": "fonts/893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c.ttf",
+              "sha256": "893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c"
+            },
+            "licenses": [
+              {
+                "path": "licenses/font-893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c-0.txt",
+                "sha256": "bce9800ab47cd0961c2a536d5ecfb983442d58eec1db5ff88a5f1a8d1c682367",
+                "url": "https://github.com/lxgw/LxgwNeoXiHei/blob/v1.305/LICENSE.md"
+              },
+              {
+                "path": "licenses/font-893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c-1.txt",
+                "sha256": "0b8c1c52b89a85fed553d3e0c11bee3e9bf82407af3b9034c109ab6aad484b98",
+                "url": "https://github.com/lxgw/LxgwNeoXiHei/blob/v1.305/LICENSE_CHS.md"
+              },
+              {
+                "path": "licenses/font-893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c-2.txt",
+                "sha256": "66e6b25df50f87217e4c53417dc511eb9698756e355a3bda8f6a6711f4611f02",
+                "url": "https://github.com/lxgw/LxgwNeoXiHei/blob/v1.305/README.md"
+              }
+            ],
+            "source": {
+              "url": "https://github.com/lxgw/LxgwNeoXiHei/releases/download/v1.305/LXGWNeoXiHei.ttf",
+              "version": "v1.305",
+              "repository": "https://github.com/lxgw/LxgwNeoXiHei"
+            },
+            "cssFamily": "HistoryBody0"
+          }
+        ]
+      }
+    }
+  },
+  "nativeLicenses": [
+    "licenses/Huashu-MIT.txt",
+    "licenses/Noto-OFL.txt",
+    "licenses/GSAP-NOTICE.txt"
+  ]
+}
